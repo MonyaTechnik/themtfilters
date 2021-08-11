@@ -127,7 +127,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||soflopxl.com^
 ||myvisualiq.net^
 ! Cube.tv (Likee) hidden tracker (Start)
-||dotting.cube.tv^$domain=likee.video
+||dotting.cube.tv^
 ! Cube.tv (Likee) hidden tracker (End)
 ||code.acstat.com^
 ||atlassian.net/rest/collectors/
