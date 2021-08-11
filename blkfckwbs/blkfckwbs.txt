@@ -24,6 +24,7 @@
 ! Secret DDOS-Guard trackers (Start)
 /.well-known/ddos-guard/id
 ! Secret DDOS-Guard trackers (Stop)
+/rendertimingpixel.
 ! All tracking pamameters (Stop)
 
 ! All tracking domains block all (Start)
@@ -41,6 +42,8 @@
 ||moy.su/stat/
 ||do.am/stat/
 ||ucoz.pl/stat/
+! Ucoz stat (end)
+/data.mistat.
 ! All tracking domains block all (Stop)
 
 ! DOM trackers (Start)
@@ -121,9 +124,7 @@
 ||stat.sputnik.ru^
 ||counter.adguard.com^
 ||analytics.tiktok.com^
-||yandex.ru/clck/click
-||yandex.ru/clck/counter
-||yandex.ru/clck/jclck/
+||yandex.*/clck/
 ||yadro.ru^
 ||tns-counter.ru^
 ||st.top100.ru^
@@ -146,4 +147,63 @@
 ||facebook.com/ajax/bz?*__comet_req=
 ||check.ddos-guard.net^$3p
 ||scarabresearch.com^$3p
+||alb.reddit.com^
+||reddit.com/api/jail/$xmlhttprequest,1p
+||reddit.com/counters/$xmlhttprequest
+||redditmedia.com/gtm/jail?
+||tracking.diginetica.net^$3p
+||retailrocket.ru/content/javascript/tracking.js
+||weborama.fr^
+||l.ivi.ru/logger/
+||metrics.mzstatic.com^
+||metrics.icloud.com^
+||supportmetrics.apple.com^
+||securemetrics.apple.com^
+||metrics.apple.com^
+||analytics-api.samsunghealthcn.com^
+||bigdata.ssp.samsung.com^
+||analytics.samsungknox.com^
+||business.samsungusa.com^
+||2o7.net^$3p
+||nmetrics.samsung.com^
+||smetrics.samsung.com^
+||open.oneplus.net^
+||click.oneplus.com^
+||analytics.oneplus.cn^
+||logbak.hicloud.com^
+||metrics-dra.dt.hicloud.com^
+||logservice1.hicloud.com^
+||logservice.hicloud.com^
+||data.hicloud.com^$3p
+||tracking.*.miui.com^
+||tracking.intl.miui.com^
+||tracking.miui.com^
+||sa.api.intl.miui.com^
+||stat.xiaomi.com^
+||data.mistat.*.xiaomi.com^
+||mistat.xiaomi.com^
+||app.chat.xiaomi.net^$3p
+||adsdk.yandex.ru^
+||extmaps-api.yandex.net^
+||analytics.mobile.yandex.net^
+||yandexadexchange.net^
+||appmetrica.yandex.com^
+||analytics.yahoo.com^
+||events.redditmedia.com^
+||stats.redditmedia.com^
+||trk.pinterest.com^
+||analytics.pinterest.com^
+||ct.pinterest.com^
+||log.pinterest.com^
+||analytics.pointdrive.linkedin.com^
+||analytics.facebook.com^$3p
+||pixel.facebook.com^
+||sentry-cdn.com^$3p
+||bugsnag.com^$3p
+||luckyorange.net^$3p
+||luckyorange.com^$3p
+||freshmarketer.com^$3p
+||mouseflow.com^$3p
+||hotjar.com^$3p
+||click.oneplus.cn^
 ! All tracking domains and tracking pages (Stop)
