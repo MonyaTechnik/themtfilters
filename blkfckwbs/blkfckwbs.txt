@@ -58,6 +58,7 @@
 /gtm.js
 /log/collect/*
 /analyze.js^
+_pagespeed_beacon?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -89,6 +90,9 @@
 *##+js(no-floc)
 !#endif
 www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
+##img[width="88"][height="31"]
+##img[src*="counter.yadro.ru"]
+##img[src^="c.bigmir.net"]
 ! DOM trackers (Stop)
 
 ! All tracking domains and tracking pages (Start)
@@ -310,4 +314,6 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||taboola.com^$3p
 ||ferganils.com^$3p
 ||witstroom.com/visit
+||cointraffic.io^
+||uptolike.com^$3p
 ! All tracking domains and tracking pages (Stop)
