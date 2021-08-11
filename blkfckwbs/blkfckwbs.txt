@@ -55,6 +55,9 @@
 /js/counter.js
 /cdn-cgi/bm/cv/*
 /rollbar.js
+/gtm.js
+/log/collect/*
+/analyze.js^
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -85,6 +88,7 @@
 !#if env_chromium
 *##+js(no-floc)
 !#endif
+www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ! DOM trackers (Stop)
 
 ! All tracking domains and tracking pages (Start)
@@ -303,4 +307,7 @@
 ||vk.com/js/lib/px.js
 ||stats.vk-portal.net^
 ||sumologic.com^$3p
+||taboola.com^$3p
+||ferganils.com^$3p
+||witstroom.com/visit
 ! All tracking domains and tracking pages (Stop)
