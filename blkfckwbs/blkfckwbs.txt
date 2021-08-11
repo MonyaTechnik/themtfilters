@@ -11,6 +11,8 @@
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
 ! 
+! MonyaSoft, LevaSoft 2021
+!
 ! Start date: 11 August 2021, 17:57:22 AM
 
 ! All tracking pamameters and tracking files (Start)
