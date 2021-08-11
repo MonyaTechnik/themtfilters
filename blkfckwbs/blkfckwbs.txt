@@ -1,0 +1,149 @@
+! Use the blocklist to block most worst trackers and protect your privacy.
+!
+! For more information: https://github.com/MonyaTechnik/themtfilters/blkfckwbs
+! ----------------------------------------------------------------------------------
+! Users:      MonyaTechnik, 
+! Format:     Adblocker list
+! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
+!
+! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
+! ----------------------------------------------------------------------------------
+! Lev Spiridonov: spiridonowlev@yandex.ru
+! GitHub issue: https://github.com/MonyaTechnik/themtfilters
+! 
+! Start date: 11 August 2021, 17:57:22 AM
+
+! All tracking pamameters and tracking files (Start)
+/px.js?ch=
+/optimizely-
+/mailrucounter.js
+/googleanalytics.js
+/facebookpixel.
+/referer_frame.
+?type=pageview&
+! Secret DDOS-Guard trackers (Start)
+/.well-known/ddos-guard/id
+! Secret DDOS-Guard trackers (Stop)
+! All tracking pamameters (Stop)
+
+! All tracking domains block all (Start)
+://piwik.
+! Ucoz stat
+||narod.ru/stat/
+||ucoz.net/stat/
+||usite.pro/stat/
+||ucoz.site/stat/
+||ucoz.club/stat/
+||ucoz.org/stat/
+||at.ua/stat/
+||my1.ru/stat/
+||clan.su/stat/
+||moy.su/stat/
+||do.am/stat/
+||ucoz.pl/stat/
+! All tracking domains block all (Stop)
+
+! DOM trackers (Start)
+!#if env_chromium
+*##+js(no-floc)
+!#endif
+! DOM trackers (Stop)
+
+! All tracking domains and tracking pages (Start)
+||mc.yandex.ru^
+||an.yandex.ru^
+||bs.yandex.ru^
+||informer.yandex.ru^
+||duckduckgo.com/t/
+||youtube.com/api/stats/qoe?
+||flocktory.com^$3p
+||vk.com/rtrg?
+||telegraf.detmir-stats.ru^
+||api.mindbox.ru/scripts/*/tracker.js
+||litix.io^
+||cc.calltracking.ru^
+||distillery.wistia.com^
+||pipedream.wistia.com^
+||hit.ua^
+! Nigma.ru hidden tracker (Start)
+||nigma.net.ru/counter/compteur.php
+! Nigma.ru hidden tracker (End)
+||aswpsdkus.com^
+||gamedock.io^
+||sw88.abc.com^
+||rutarget.ru^
+! Gosuslugi hidden trackers (Start)
+||pixel.gosuslugi.ru^
+||voxel.gosuslugi.ru^
+! Gosuslugi hidden trackers (End)
+||crazyegg.com^
+||gamedistribution.com/collect
+||soflopxl.com^
+||myvisualiq.net^
+! Cube.tv (Likee) hidden tracker (Start)
+||dotting.cube.tv^
+! Cube.tv (Likee) hidden tracker (End)
+||code.acstat.com^
+||atlassian.net/rest/collectors/
+||mail.ru/share_count
+||hiss3lark.com^
+||kitten.teletarget.ru/stat
+||log.rutube.ru^
+||analytics.logsss.com^
+||fourier.taobao.com^
+||dotmetrics.net^
+||permutive.app^
+||optimizely.com^
+||az416426.vo.msecnd.net^
+||report-uri.com^
+||browser-updater.yandex.net^
+||secure.statcounter.com^
+||api.flocktory.com^
+||habr.com/img/px.gif
+||bats.video.yahoo.com^
+||vop-yahoo.akamaized.net/pixel.gif
+||yahoovod.hs.llnwd.net/pixel.gif
+||yahoo.net/pixel.gif
+||yahoo.net/noquery/pixel.gif
+||geo.yahoo.com^
+||yahoo.com/p.gif
+||cdn.onthe.io/io.js/
+||stats.wordpress.com^
+||tracker.convead.io^
+||p.typekit.net/p.gif
+||go-mpulse.net^
+||yandex.ru/cycounter
+||youtube.com/ptracking
+||youtube.com/api/stats/atr
+||youtube.com/youtubei/v1/log_event
+||tracking.ott.yandex.net^
+||sb.scorecardresearch.com^
+||stat.sputnik.ru^
+||counter.adguard.com^
+||analytics.tiktok.com^
+||yandex.ru/clck/click
+||yandex.ru/clck/counter
+||yandex.ru/clck/jclck/
+||yadro.ru^
+||tns-counter.ru^
+||st.top100.ru^
+||rs.mail.ru^
+||mail.ru/count
+||mail.ru/grstat
+||stat.radar.imgsmail.ru/update
+||frog.wix.com^
+||mail.ru/k?
+||ok.ru/mapi?query=*getCounters*
+||clarity.ms^
+||static.cloudflareinsights.com/beacon.min.js
+||cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js
+||countess.twitch.tv^
+||bitrix.info/ba.js
+||api.github.com/_private/browser/stats$important
+||collector.githubapp.com^
+||google-analytics.com^
+||facebook.com/tr?
+||facebook.com/ajax/bz?*__comet_req=
+||check.ddos-guard.net^$3p
+||scarabresearch.com^$3p
+! All tracking domains and tracking pages (Stop)
