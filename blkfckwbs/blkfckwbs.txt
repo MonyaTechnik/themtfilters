@@ -291,4 +291,9 @@
 ||pi.pardot.com/analytics
 ||flagcounter.com^$3p
 ||counter.web.money^
+# https://github.com/MonyaTechnik/themtfilters/issues/1 (Start)
+||mp3vizor.com^$3p
+# https://github.com/MonyaTechnik/themtfilters/issues/1 (Stop)
+||s.clickiocdn.com^
+
 ! All tracking domains and tracking pages (Stop)
