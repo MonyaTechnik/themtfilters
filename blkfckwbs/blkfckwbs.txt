@@ -53,6 +53,8 @@
 /eloqua.
 /cdn-cgi/apps/head/*$1p
 /js/counter.js
+/cdn-cgi/bm/cv/*
+/rollbar.js
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -295,5 +297,10 @@
 ||mp3vizor.com^$3p
 # https://github.com/MonyaTechnik/themtfilters/issues/1 (Stop)
 ||s.clickiocdn.com^
-
+||amplitude.com^$3p
+||reveal.clearbit.com^
+||onetrust.com^$ping
+||vk.com/js/lib/px.js
+||stats.vk-portal.net^
+||sumologic.com^$3p
 ! All tracking domains and tracking pages (Stop)
