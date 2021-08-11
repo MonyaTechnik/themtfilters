@@ -25,11 +25,43 @@
 /.well-known/ddos-guard/id
 ! Secret DDOS-Guard trackers (Stop)
 /rendertimingpixel.
-! All tracking pamameters (Stop)
+/c.gif?
+/log_event?
+/generate_204
+/gen204
+/gen_204
+/?sentry_key=
+/fingerprint2.min.js
+/client_204?
+/dlpageping?
+/autotrack.js
+/sdp-tagcollector.
+/analytics.js/v1/*
+/beacons?data=
+/fbevents.js
+/sensorsdata.
+/snowplow/*
+.com/js/ga.js
+/js/analytics.
+/visitoridentification.js
+/visitor.js
+/analytics/visit
+/analytics/event
+/pixel/logEvent
+/dwanalytics-
+/gtag.js
+/eloqua.
+/cdn-cgi/apps/head/*$1p
+/js/counter.js
+! All tracking pamameters and tracking files (Stop)
+
+! Good links (Start)
+@@||play.google.com/log?
+! Good links (Stop)
 
 ! All tracking domains block all (Start)
 ://piwik.
-! Ucoz stat
+! Ucoz stat (start)
 ||narod.ru/stat/
 ||ucoz.net/stat/
 ||usite.pro/stat/
@@ -44,6 +76,7 @@
 ||ucoz.pl/stat/
 ! Ucoz stat (end)
 /data.mistat.
+://analytics.*/event
 ! All tracking domains block all (Stop)
 
 ! DOM trackers (Start)
@@ -74,7 +107,7 @@
 ||aswpsdkus.com^
 ||gamedock.io^
 ||sw88.abc.com^
-||rutarget.ru^
+||rutarget.ru^$3p
 ! Gosuslugi hidden trackers (Start)
 ||pixel.gosuslugi.ru^
 ||voxel.gosuslugi.ru^
@@ -84,7 +117,7 @@
 ||soflopxl.com^
 ||myvisualiq.net^
 ! Cube.tv (Likee) hidden tracker (Start)
-||dotting.cube.tv^
+||dotting.cube.tv^$domain=likee.video
 ! Cube.tv (Likee) hidden tracker (End)
 ||code.acstat.com^
 ||atlassian.net/rest/collectors/
@@ -206,4 +239,56 @@
 ||mouseflow.com^$3p
 ||hotjar.com^$3p
 ||click.oneplus.cn^
+||giraff.io^$3p
+||piper.amocrm.ru^
+||*.push.world^
+||viewst.com^$3p
+.demdex.net/id^$xmlhttprequest,important
+||omtrdc.net/id^$xmlhttprequest,important
+.microsoft.*/broker.js
+||top-fwz1.mail.ru^
+||aidata.io^$3p
+||onthe.io^
+||cdn.onesignal.com^
+||vortex.data.microsoft.com/collect
+||youtube-nocookie.com/api/stats/atr
+||mcs-va.tiktokv.com^
+||byteoversea.com/captcha/report
+||mon-va.byteoversea.com^$3p
+||facebook.com/tr/
+||id.google.com/verify/
+||pixel.wp.com^
+||sentry.io^$3p
+||img*.en25.com/i/elqcfg.min.js
+||customer.io^$3p
+||pingdom.net^$3p
+||googleoptimize.com^$3p
+||js-agent.newrelic.com^
+||carrotquest.io^$3p
+||mopinion.com^$3p
+||cs.pikabu.ru/apps/ub/*/main/analytics.js
+||hm.baidu.com^$3p
+||bizible.com^
+||munchkin.marketo.net^
+||cc.swiftype.com^
+||events.launchdarkly.com^$3p
+||cdn.segment.com^
+||lmiutil.com^$3p
+||lastpass.com/dist/scripts/analyticsjs
+||dev.visualwebsiteoptimizer.com^
+||rollbar.com^$3p
+||facebook.com/common/cavalry_endpoint.php?
+||cquotient.com^$3p
+||instagram.com/logging/
+||instagram.com/ajax/bz
+||graph.instagram.com/logging_client_events
+||cdn.jsdelivr.net/npm/yandex-metrica-watch/
+||wg-aff.com^$popup
+||analytics.archive.org^
+||archive.org/includes/analytics.js
+||siteintercept.qualtrics.com^
+||t.paypal.com^
+||pi.pardot.com/analytics
+||flagcounter.com^$3p
+||counter.web.money^
 ! All tracking domains and tracking pages (Stop)
