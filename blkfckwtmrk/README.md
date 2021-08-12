@@ -10,3 +10,5 @@ This is filter blocks site editor watermarks and watermark shortlinks and much m
 + Wix
 + Webflow
 + Tilda
++ Blogspot (Blogger)
++ Aero
