@@ -29,4 +29,5 @@ tilda.ws##.t-tildalabel
 ! Shortlinks (Start)
 ||tilda.cc/?upm=1608597
 ||wix.com/lpviral/enviral
+||apps.wix.com/place-invites/join-lp/
 ! Shortlinks (Stop)
