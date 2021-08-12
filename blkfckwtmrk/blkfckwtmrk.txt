@@ -25,6 +25,8 @@ wixsite.com##._1-0Al._27-bI
 !
 tilda.ws##.t-tildalabel
 taplink.cc##.footer-link
+squarespace.com###footer > .columns-12.sqs-grid-12.sqs-layout
+wordpress.com###infinite-footer
 ! Watermarks (Stop)
 
 ! Shortlinks (Start)
