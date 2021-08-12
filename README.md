@@ -8,6 +8,7 @@ The Monya Technik's filters helps block ads and trackers and more.
 # Filters:
 + BlkFckWbs (Tracking blocking)
 + BlkFckWtmrk (Block site watermarks)
++ BlkFckAds (Block ads)
 # Support:
 Contact email: spiridonowlev@yandex.ru
 
