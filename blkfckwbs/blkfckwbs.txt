@@ -61,6 +61,7 @@
 /log/collect/*
 /analyze.js^
 _pagespeed_beacon?
+/nielsen.js
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -320,4 +321,9 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||uptolike.com^$3p
 ||evidon.com/pub/
 ||discord.com/api/*/science
+||unid.go.com^$3p
+||dcf.espn.com/privacy/
+||scorecardresearch.com^
+||bkrtx.com^
+||imrworldwide.com^
 ! All tracking domains and tracking pages (Stop)
