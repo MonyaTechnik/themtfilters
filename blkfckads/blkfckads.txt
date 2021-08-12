@@ -41,3 +41,5 @@ duckduckgo.com###ads
 ||googlesyndication.com^
 ||ads.youtube.com^
 ||ads.mcafee.com^
+||smntq.com^$3p
+||adsglobal.ru^$3p
