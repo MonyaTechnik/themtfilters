@@ -43,3 +43,4 @@ duckduckgo.com###ads
 ||ads.mcafee.com^
 ||smntq.com^$3p
 ||adsglobal.ru^$3p
+||pubmatic.com^
