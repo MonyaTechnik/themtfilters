@@ -64,6 +64,7 @@ _pagespeed_beacon?
 /nielsen.js
 /piwik.js
 /v.gif?
+/stats/xmsg_
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -365,4 +366,9 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||player-telemetry.vimeo.com^
 ||track.flexlinkspro.com^
 ||siftscience.com^$3p
+||appmifile.com^*/stat/
+||sys.refocus.ru^$3p
+||crazyegg.com^$3p
+||levelaccess.net/analytics/
+||p.typekit.net^$3p
 ! All tracking domains and tracking pages (Stop)
