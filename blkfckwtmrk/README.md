@@ -10,4 +10,3 @@ This is filter blocks site editor watermarks and watermark shortlinks.
 + Wix
 + Webflow
 + Tilda
-+ and coming soon...
