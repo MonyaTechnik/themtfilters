@@ -6,7 +6,7 @@
 ! Format:     Adblocker list
 ! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
 !
-! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
+! Please contact me or on a issue on GitHub to block unblocked watermark and problems:
 ! -------------------------------------------------------------------------------------------------------------------------
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
@@ -15,5 +15,18 @@
 !
 ! Start date: 12 August 2021, 10:15:10 AM
 
+! Watermarks (Start)
 webflow.io##.w-webflow-badge
+! Wix for desktop
 wixsite.com##.BNB_2._4Ue8X
+!
+! Wix for mobile
+wixsite.com##._1-0Al._27-bI
+!
+tilda.ws##.t-tildalabel
+! Watermarks (Stop)
+
+! Shortlinks (Start)
+||tilda.cc/?upm=1608597
+||wix.com/lpviral/enviral
+! Shortlinks (Stop)
