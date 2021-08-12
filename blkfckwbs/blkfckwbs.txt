@@ -101,6 +101,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ##img[width="88"][height="31"]
 ##img[src*="counter.yadro.ru"]
 ##img[src^="c.bigmir.net"]
+search.brave.com##+js(no-fetch-if, body:cohort)
 ! DOM trackers (Stop)
 
 ! All tracking domains and tracking pages (Start)
@@ -381,4 +382,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||ssm.codes^$3p
 ||pushwoosh.com^$3p
 ||ssp.rambler.ru^
+||api.tumblr.com/*/share/stats$3p
+||analytics.example.com^
+||search.brave.com/api/feedback?t=telemetry^
 ! All tracking domains and tracking pages (Stop)
