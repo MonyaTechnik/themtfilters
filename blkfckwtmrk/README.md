@@ -1,5 +1,5 @@
 # BlkFckWtmrk
-This is filter blocks site editor watermarks and watermark shortlinks.
+This is filter blocks site editor watermarks and watermark shortlinks and much more other watermarks.
 # Credits:
 + LevSpiridonov (https://github.com/spiri-leo)
 + MonyaTechnik (https://github.com/MonyaTechnik)
