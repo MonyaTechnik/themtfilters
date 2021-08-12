@@ -7,6 +7,7 @@ The Monya Technik's filters helps block ads and trackers and more.
 + Creating issue with your operating system information, adblocker information, and browser information.
 # Support:
 Contact email: spiridonowlev@yandex.ru
+
 Or create issue on this repository (only your adblocker and browser and operating system information)
 
 MonyaTechnik, Levasoft 2021
