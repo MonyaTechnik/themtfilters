@@ -5,6 +5,9 @@ The Monya Technik's filters helps block ads and trackers and more.
 + Monya Technik (https://github.com/MonyaTechnik)
 # Read rules:
 + Creating issue with your operating system information, adblocker information, and browser information.
+# Filters:
++ BlkFckWbs (Tracking blocking)
++ BlkFckWtmrk (Block site watermarks)
 # Support:
 Contact email: spiridonowlev@yandex.ru
 
