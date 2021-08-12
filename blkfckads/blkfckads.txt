@@ -6,7 +6,7 @@
 ! Format:     Adblocker list
 ! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
 !
-! Please contact me or on a issue on GitHub to block unblocked watermark and problems:
+! Please contact me or on a issue on GitHub to block unblocked ad and problems:
 ! -------------------------------------------------------------------------------------------------------------------------
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
