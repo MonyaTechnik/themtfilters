@@ -92,6 +92,9 @@ _pagespeed_beacon?
 ! Ucoz stat (end)
 /data.mistat.
 ://analytics.*/event
+! https://github.com/MonyaTechnik/themtfilters/issues/3 (Start)
+/stat/*$domain=spec-komp.com
+! https://github.com/MonyaTechnik/themtfilters/issues/3 (End)
 ! All tracking domains block all (Stop)
 
 ! DOM trackers (js nofloc blocking only uBlock Origin) (Start)
