@@ -356,4 +356,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||tags.tiqcdn.com^
 ||eventstream.dodopizza.com^
 ||twitter.com/i/jot
+||cloudfront.net/tracker-latest.min.js
+||refersion.com^$3p
+||ipstack.com^$3p
 ! All tracking domains and tracking pages (Stop)
