@@ -66,6 +66,7 @@ _pagespeed_beacon?
 /v.gif?
 /stats/xmsg_
 ?sponsor_pixel=
+/pixel.gif
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -385,4 +386,14 @@ search.brave.com##+js(no-fetch-if, body:cohort)
 ||api.tumblr.com/*/share/stats$3p
 ||analytics.example.com^
 ||search.brave.com/api/feedback?t=telemetry^
+||mmstat.com^
+||cnzz.com^$3p
+||sinajs.cn/open/analytics/
+||spotxchange.com^
+||metricool.com^$3p
+||pingjs.qq.com^
+||btrace.qq.com^
+||qq.com/stdlog
+||qq.com/p?
+||stores-counters.wix.com^
 ! All tracking domains and tracking pages (Stop)
