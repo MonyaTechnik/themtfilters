@@ -88,7 +88,7 @@ _pagespeed_beacon?
 ://analytics.*/event
 ! All tracking domains block all (Stop)
 
-! DOM trackers (Start)
+! DOM trackers (js nofloc blocking only uBlock Origin) (Start)
 !#if env_chromium
 *##+js(no-floc)
 !#endif
