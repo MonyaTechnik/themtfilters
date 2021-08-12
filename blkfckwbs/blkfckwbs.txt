@@ -68,7 +68,7 @@ _pagespeed_beacon?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
-@@||play.google.com/log?
+!
 ! Good links (Stop)
 
 ! All tracking domains block all (Start)
@@ -86,6 +86,8 @@ _pagespeed_beacon?
 ||moy.su/stat/
 ||do.am/stat/
 ||ucoz.pl/stat/
+||ucoz.ru/stat/
+/stat/$domain=spec-komp.com
 ! Ucoz stat (end)
 /data.mistat.
 ://analytics.*/event
@@ -128,7 +130,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||pixel.gosuslugi.ru^
 ||voxel.gosuslugi.ru^
 ! Gosuslugi hidden trackers (End)
-||crazyegg.com^
+||crazyegg.com^$3p
 ||gamedistribution.com/collect
 ||soflopxl.com^
 ||myvisualiq.net^
@@ -162,7 +164,6 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||cdn.onthe.io/io.js/
 ||stats.wordpress.com^
 ||tracker.convead.io^
-||p.typekit.net/p.gif
 ||go-mpulse.net^
 ||yandex.ru/cycounter
 ||youtube.com/ptracking
@@ -368,7 +369,8 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||siftscience.com^$3p
 ||appmifile.com^*/stat/
 ||sys.refocus.ru^$3p
-||crazyegg.com^$3p
 ||levelaccess.net/analytics/
 ||p.typekit.net^$3p
+||trafficdok.com^
+||roserobotx.online^
 ! All tracking domains and tracking pages (Stop)
