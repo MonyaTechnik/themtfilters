@@ -1,0 +1,43 @@
+! Use the blocklist to block ads.
+!
+! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckads
+! -------------------------------------------------------------------------------------------------------------------------
+! Users:      MonyaTechnik, 
+! Format:     Adblocker list
+! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
+!
+! Please contact me or on a issue on GitHub to block unblocked watermark and problems:
+! -------------------------------------------------------------------------------------------------------------------------
+! Lev Spiridonov: spiridonowlev@yandex.ru
+! GitHub issue: https://github.com/MonyaTechnik/themtfilters
+! 
+! MonyaSoft, LevaSoft 2021
+!
+! Start date: 12 August 2021, 14:16:17 AM
+
+duckduckgo.com##.js-results-ads
+duckduckgo.com###ads
+/adfox/
+||doubleclick.net^
+||googleadservices.com^
+||ad.mail.ru^
+||ads-twitter.com^
+||amazon-adsystem.com^
+||ads.facebook.com^
+||ads.linkedin.com^
+||samsungads.com^
+||samsungadhub.com^
+||ad.xiaomi.com^
+||ad.intl.xiaomi.com^
+||adsdk.yandex.ru^
+||ads.yap.yahoo.com^
+||ads.yahoo.com^
+||ads.tiktok.com^
+||cleverads.vn^
+||ads.pinterest.com^
+||assoc-amazon.com^
+||media.net^
+||yandex.net/get-direct
+||googlesyndication.com^
+||ads.youtube.com^
+||ads.mcafee.com^
