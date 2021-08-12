@@ -1,13 +1,13 @@
 ! Use the blocklist to block most worst trackers and protect your privacy.
 !
-! For more information: https://github.com/MonyaTechnik/themtfilters/blkfckwbs
-! ----------------------------------------------------------------------------------
+! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwbs
+! -------------------------------------------------------------------------------------------------------------------------
 ! Users:      MonyaTechnik, 
 ! Format:     Adblocker list
 ! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
 !
 ! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
-! ----------------------------------------------------------------------------------
+! -------------------------------------------------------------------------------------------------------------------------
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
 ! 
@@ -355,4 +355,5 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||stat.adguard.com^
 ||tags.tiqcdn.com^
 ||eventstream.dodopizza.com^
+||twitter.com/i/jot
 ! All tracking domains and tracking pages (Stop)
