@@ -318,4 +318,5 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||witstroom.com/visit
 ||cointraffic.io^
 ||uptolike.com^$3p
+||evidon.com/pub/
 ! All tracking domains and tracking pages (Stop)
