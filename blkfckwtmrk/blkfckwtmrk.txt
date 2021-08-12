@@ -24,6 +24,7 @@ wixsite.com##.BNB_2._4Ue8X
 wixsite.com##._1-0Al._27-bI
 !
 tilda.ws##.t-tildalabel
+taplink.cc##.footer-link
 ! Watermarks (Stop)
 
 ! Shortlinks (Start)
