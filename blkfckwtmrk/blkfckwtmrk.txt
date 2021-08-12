@@ -1,0 +1,19 @@
+! Use the blocklist to block watermarks.
+!
+! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwtmrk
+! -------------------------------------------------------------------------------------------------------------------------
+! Users:      MonyaTechnik, 
+! Format:     Adblocker list
+! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
+!
+! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
+! -------------------------------------------------------------------------------------------------------------------------
+! Lev Spiridonov: spiridonowlev@yandex.ru
+! GitHub issue: https://github.com/MonyaTechnik/themtfilters
+! 
+! MonyaSoft, LevaSoft 2021
+!
+! Start date: 12 August 2021, 10:15:10 AM
+
+webflow.io##.w-webflow-badge
+wixsite.com##.BNB_2._4Ue8X
