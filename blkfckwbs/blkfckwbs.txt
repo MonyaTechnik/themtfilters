@@ -1,13 +1,13 @@
 ! Use the blocklist to block most worst trackers and protect your privacy.
 !
 ! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwbs
-! -------------------------------------------------------------------------------------------------------------------------
+! ----------------------------------------------------------------------------------------------------------------------------------------------
 ! Users:      MonyaTechnik, 
 ! Format:     Adblocker list
 ! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
 !
 ! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
-! -------------------------------------------------------------------------------------------------------------------------
+! ----------------------------------------------------------------------------------------------------------------------------------------------
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
 ! 
@@ -402,4 +402,5 @@ search.brave.com##+js(no-fetch-if, body:cohort)
 ||qq.com/p?
 ||stores-counters.wix.com^
 ||improvedigital.com^
+||mail.yandex.*/monitoring_liza.txt$domain=mail.yandex.by|mail.yandex.kz|mail.yandex.ru|mail.yandex.ua|mail.yandex.com|mail.yandex.com.tr
 ! All tracking domains and tracking pages (Stop)
