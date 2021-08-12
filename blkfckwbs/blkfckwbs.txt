@@ -67,6 +67,7 @@ _pagespeed_beacon?
 /stats/xmsg_
 ?sponsor_pixel=
 /pixel.gif
+.js?referer=
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -89,6 +90,7 @@ _pagespeed_beacon?
 ||do.am/stat/
 ||ucoz.pl/stat/
 ||ucoz.ru/stat/
+||ulogin.ru/stats.html
 ! Ucoz stat (end)
 /data.mistat.
 ://analytics.*/event
@@ -399,4 +401,5 @@ search.brave.com##+js(no-fetch-if, body:cohort)
 ||qq.com/stdlog
 ||qq.com/p?
 ||stores-counters.wix.com^
+||improvedigital.com^
 ! All tracking domains and tracking pages (Stop)
