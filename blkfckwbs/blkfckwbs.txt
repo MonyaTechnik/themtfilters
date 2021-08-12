@@ -62,6 +62,8 @@
 /analyze.js^
 _pagespeed_beacon?
 /nielsen.js
+/piwik.js
+/v.gif?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -265,7 +267,12 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||cdn.onesignal.com^
 ||vortex.data.microsoft.com/collect
 ||youtube-nocookie.com/api/stats/atr
+||xlog.tiktokv.com^
+||xlog-va.tiktokv.com^
+||log*-*.tiktokv.com^
+||xlog*-*.tiktokv.com^
 ||mcs-va.tiktokv.com^
+||mcs-va-*.tiktokv.com^
 ||byteoversea.com/captcha/report
 ||mon-va.byteoversea.com^$3p
 ||facebook.com/tr/
@@ -326,4 +333,26 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||scorecardresearch.com^
 ||bkrtx.com^
 ||imrworldwide.com^
+||fastly-insights.com^
+||sail-horizon.com^
+||d1z2jf7jlzjs58.cloudfront.net^
+||quantserve.com^
+||ad.gt^
+||beacon.wikia-services.com^
+||freebloghitcounter.com^$3p
+||hitcounter.ru^$3p
+||hitcountersonline.com^$3p
+||hitcounterstats.com^$3p
+||simplehitcounter.com^$3p
+||thefreehitcounter.com^$3p
+||baidu.com^*/mwb2.gif?
+||als.baidu.com^
+||afd.baidu.com^
+||wkctj.baidu.com^
+||jpaasne.e.shifen.com^
+||caclick.baidu.com^
+||wkclick.baidu.com^
+||stat.adguard.com^
+||tags.tiqcdn.com^
+||eventstream.dodopizza.com^
 ! All tracking domains and tracking pages (Stop)
