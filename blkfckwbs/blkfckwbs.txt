@@ -319,4 +319,5 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||cointraffic.io^
 ||uptolike.com^$3p
 ||evidon.com/pub/
+||discord.com/api/*/science
 ! All tracking domains and tracking pages (Stop)
