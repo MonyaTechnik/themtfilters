@@ -87,7 +87,6 @@ _pagespeed_beacon?
 ||do.am/stat/
 ||ucoz.pl/stat/
 ||ucoz.ru/stat/
-/stat/*$domain=spec-komp.com
 ! Ucoz stat (end)
 /data.mistat.
 ://analytics.*/event
