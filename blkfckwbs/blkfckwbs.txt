@@ -359,4 +359,10 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||cloudfront.net/tracker-latest.min.js
 ||refersion.com^$3p
 ||ipstack.com^$3p
+||vimeo.com/ablincoln/
+||vimeocdn.com/add/player-stats?
+||fresnel.vimeocdn.com/add/player-test-impression?beacon
+||player-telemetry.vimeo.com^
+||track.flexlinkspro.com^
+||siftscience.com^$3p
 ! All tracking domains and tracking pages (Stop)
