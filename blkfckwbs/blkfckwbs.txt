@@ -65,6 +65,7 @@ _pagespeed_beacon?
 /piwik.js
 /v.gif?
 /stats/xmsg_
+?sponsor_pixel=
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -372,4 +373,12 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ||p.typekit.net^$3p
 ||trafficdok.com^
 ||roserobotx.online^
+||appsflyer.com^$3p
+||useinsider.com^$3p
+||statcounter.com^$3p
+||imp.pvnsolutions.com^
+||hs-scripts.com^$3p
+||ssm.codes^$3p
+||pushwoosh.com^$3p
+||ssp.rambler.ru^
 ! All tracking domains and tracking pages (Stop)
