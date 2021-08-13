@@ -510,7 +510,8 @@ counter.co.kz##p.b:nth-of-type(2)
 ||sendpulse.com^$3p
 ||openstat.net^
 ||rbc.ru/rightarror.gif
-||r.applvn.com^
+||d.applvn.com^
+||rt.applvn.com^
 ||data.mistat.intl.xiaomi.com^
 ||target.smi2.net^
 ||ipify.org^$3p
