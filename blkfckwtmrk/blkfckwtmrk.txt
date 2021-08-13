@@ -17,11 +17,16 @@
 
 ! Watermarks (Start)
 webflow.io##.w-webflow-badge
+##.w-webflow-badge
 ! Wix for desktop
 wixsite.com##.BNB_2._4Ue8X
 !
 ! Wix for mobile
 wixsite.com##._1-0Al._27-bI
+!
+! For registered Wix domains
+##.BNB_2._4Ue8X
+##._1-0Al._27-bI
 !
 tilda.ws##.t-tildalabel
 taplink.cc##.footer-link
