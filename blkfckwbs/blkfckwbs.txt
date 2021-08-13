@@ -96,6 +96,9 @@ _pagespeed_beacon?
 /engine/ping?
 -event-tracking.
 /event.gif?
+/unagi.amazon.
+/batch/1/oe/*
+/counter?$domain=amazon.com|amazon.de|amazon.it|amazon.com.tr
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -167,6 +170,39 @@ counter.co.kz##p.b:nth-of-type(2)
 ||aswpsdkus.com^
 ||gamedock.io^
 ||sw88.abc.com^
+||sw88.disney.be^
+||sw88.disney.co.jp^
+||sw88.disney.co.uk^
+||sw88.disney.co.za^
+||sw88.disney.de^
+||sw88.disney.es^
+||sw88.disney.fr^
+||sw88.disney.hu^
+||sw88.disney.it^
+||sw88.disney.nl^
+||sw88.disney.no^
+||sw88.disney.pl^
+||sw88.disney.pt^
+||sw88.disney.ro^
+||sw88.disney.ru^
+||sw88.disneyme.com^
+||sw88.disneynow.com^
+||sw88.disneyrewards.com^
+||sw88.disneyturkiye.com.tr^
+||sw88.espn.com^
+||sw88.foxplay.com^
+||sw88.freeform.com^
+||sw88.fxnetworks.com^
+||sw88.go.com^
+||sw88.marvel.com.ru^
+||sw88.nationalgeographic.com^
+||sw88.shopdisney.co.uk^
+||sw88.shopdisney.es^
+||sw88.shopdisney.eu^
+||sw88.shopdisney.fr^
+||sw88.shopdisney.it^
+||sw88.starwars.ru^
+||sw88.thelionking.co.uk^
 ||rutarget.ru^$3p
 ! Gosuslugi hidden trackers (Start)
 ||pixel.gosuslugi.ru^
@@ -606,4 +642,20 @@ counter.co.kz##p.b:nth-of-type(2)
 ||apple.com/metrics/
 ||d2wy8f7a9ursnm.cloudfront.net^
 ||cdn.heapanalytics.com^
+||amazon.com/empty.gif?
+||alicdn.com/awsc/et/
+||wp.aliexpress.com/trace.gif?event=
+||livetex.ru^$3p
+||mediavine.com^
+||d2t77mnxyo7adj.cloudfront.net^
+||cl.canva.com^
+||appboycdn.com^
+||dwin1.com^$3p
+||uniconsent.com^$3p
+||oracleinfinity.io^$3p
+||trustarc.com/log?
+||oracle.com/visitorinfo/
+||go.oracle.com^
+||rnengage.com^$3p
+||episerver.net^$3p
 ! All tracking domains and tracking pages (Stop)
