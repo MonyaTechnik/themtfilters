@@ -28,12 +28,17 @@ taplink.cc##.footer-link
 squarespace.com###footer > .columns-12.sqs-grid-12.sqs-layout
 wordpress.com###infinite-footer
 duckduckgo.com##.results--powered
+! Blogger
 ##.powered-by
 blogspot.com##.blogger
 ##.blogger
 blogspot.com##.image-attribution
 ##.image-attribution
+! Aero
 ##._18H-q
+! Ucoz
+##.pbC3E6_3
+
 ! Watermarks (Stop)
 
 ! Shortlinks (Start)
