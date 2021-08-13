@@ -122,9 +122,6 @@ _pagespeed_beacon?
 ||ucoz.pl/stat/
 ||ucoz.ru/stat/
 ||ulogin.ru/stats.html
-! Ucoz stat dashboard block
-/panel/?a=ustat*
-!
 ! Ucoz stat (end)
 /data.mistat.
 ://analytics.*/event
