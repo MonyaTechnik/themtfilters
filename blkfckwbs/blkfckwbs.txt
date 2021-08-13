@@ -81,11 +81,20 @@ _pagespeed_beacon?
 /a8c-analytics/*
 /matomo.js$domain=~github.com
 /bitrix/spread.php?
+/hitcounter.
+/wf-beacon-
+/embedasynclogger.
+/comscore-min.js
+/onetag/*
+/user-context?referrer=
+/pixelpropagate.
+/sw/analytics.js
+/1x1.png?
 ! All tracking pamameters and tracking files (Stop)
 
-! Good links (Start)
+! Unbreaks (Start)
 !
-! Good links (Stop)
+! Unbreaks (Stop)
 
 ! All tracking domains block all (Start)
 ://piwik.
@@ -133,7 +142,9 @@ counter.co.kz##p.b:nth-of-type(2)
 ||an.yandex.ru^
 ||bs.yandex.ru^
 ||informer.yandex.ru^
+! The DuckDuckGo privacy error!
 ||duckduckgo.com/t/
+!
 ||youtube.com/api/stats/qoe?
 ||flocktory.com^$3p
 ||vk.com/rtrg?
@@ -473,6 +484,7 @@ counter.co.kz##p.b:nth-of-type(2)
 ||mytop-in.net^
 ||100widgets.com^$3p
 ||counter.24log.ru^
+||counter.24log.com^
 ||zero.kz^$3p
 ||spylog.com^
 ||hotlog.ru^
@@ -516,4 +528,51 @@ counter.co.kz##p.b:nth-of-type(2)
 ||target.smi2.net^
 ||ipify.org^$3p
 ||sape.ru^$3p
+||inetlog.ru/counter/
+||nsaudience.pl^$3p
+||hit.interia.pl^
+||3p-geo.yahoo.com^
+||direct-events-collector.spot.im^
+||pix.spot.im^
+||jill.fc.yahoo.com^
+||metrics-logger.spot.im^
+||pixel.advertising.com^
+||t.spot.im^
+||jac.yahoosandbox.com^
+||wmcdp.io^$3p
+||geo.ngtv.io^
+||bounceexchange.com^
+||videoplayerhub.com^$3p
+||cloudfront.net/script.js$script,3p
+||wren.condenastdigital.com^
+||capture.condenastdigital.com^
+||zqtk.net^
+||indexww.com^
+||mgid.com^
+||msn.com/collect/
+||c.bing.com/c.gif
+||srtb.msn.com^
+||omnitagjs.com^$3p
+||bizographics.com^
+||graph.facebook.com/?id=$3p
+||qoopler.ru^$3p
+||a.ria.ru^
+||nativeroll.tv^
+||informers.sinoptik.ua^
+||top.mail.ru^$3p
+||metrika-informer.com^$3p
+||counter.24smi.info^
+||lentainform.com^$3p
+||analysis.fi^$3p
+||marketo.com^$3p
+||tru.am^$3p
+||sophi.io^$3p
+||jwpltx.com^$3p
+||marketgid.com^
+||facebook.com^*/logging/
+||informer.link^$3p
+||addthis.com^$3p,important,domain=~amd.com|~missingkids.com|~missingkids.org|~sainsburys.jobs|~schonmagazine.com|~sitecore.com
+||hc.uralweb.ru^
+||mediametrics.ru^$3p
+||randiul.com^$3p
 ! All tracking domains and tracking pages (Stop)
