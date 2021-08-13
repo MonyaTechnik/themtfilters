@@ -90,6 +90,12 @@ _pagespeed_beacon?
 /pixelpropagate.
 /sw/analytics.js
 /1x1.png?
+-didomi.js
+-adobedatalayer_
+/google_tag/*
+/engine/ping?
+-event-tracking.
+/event.gif?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -575,4 +581,29 @@ counter.co.kz##p.b:nth-of-type(2)
 ||hc.uralweb.ru^
 ||mediametrics.ru^$3p
 ||randiul.com^$3p
+||analytics.mailmunch.co^
+||ownpage.fr^$3p
+||apv-launcher.minute.ly^$3p
+||adobedtm.com^$3p,domain=~adobe.com
+||durationmedia.net^$3p
+||chartbeat.com^$3p
+||stat.teleport.media^
+||1dmp.io^$3p
+||d1tracker.ru^
+||count.mgts.ru^
+||stat.tildacdn.com^
+||omtrdc.net^
+||api-router.kaspersky-labs.com/logger2^
+||t.av.st^
+||kampyle.com^$3p
+||scanalert.com/meter/
+||dash.getsitecontrol.com^
+||metrics.api.drift.com^
+||drift.com/impressions/
+||drift.com/targeting/
+||event.api.drift.com^
+||intellimize.co^$3p
+||apple.com/metrics/
+||d2wy8f7a9ursnm.cloudfront.net^
+||cdn.heapanalytics.com^
 ! All tracking domains and tracking pages (Stop)
