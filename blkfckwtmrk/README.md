@@ -12,5 +12,6 @@ This is filter blocks site editor watermarks and watermark shortlinks and much m
 + Tilda
 + Blogspot (Blogger)
 + Aero
++ Ucoz
 # Partners watermarks blocked:
 + DuckDuckGo
