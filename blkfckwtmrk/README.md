@@ -13,5 +13,6 @@ This is filter blocks site editor watermarks and watermark shortlinks and much m
 + Blogspot (Blogger)
 + Aero
 + Ucoz
++ Webnode
 # Partners watermarks blocked:
 + DuckDuckGo
