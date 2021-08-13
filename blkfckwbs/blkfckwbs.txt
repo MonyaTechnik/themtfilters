@@ -79,6 +79,8 @@ _pagespeed_beacon?
 /ux_analytics_
 /akam/11/*
 /a8c-analytics/*
+/matomo.js$domain=~github.com
+/bitrix/spread.php?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Good links (Start)
@@ -121,6 +123,10 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 search.brave.com##+js(no-fetch-if, body:cohort)
 ##a[href^="http://www.liveinternet.ru/stat/"]
 ! DOM trackers (Stop)
+
+! Other (Start)
+counter.co.kz##p.b:nth-of-type(2)
+! Other (Stop)
 
 ! All tracking domains and tracking pages (Start)
 ||mc.yandex.ru^
@@ -498,4 +504,15 @@ search.brave.com##+js(no-fetch-if, body:cohort)
 ||msecnd.net/scripts/jsll-
 ||postaffiliatepro.com^$3p
 ||owneriq.net^
+||t.kck.st^
+||kickstarter.com/uy3r669n/init.js
+||browser-update.org^$3p
+||sendpulse.com^$3p
+||openstat.net^
+||rbc.ru/rightarror.gif
+||r.applvn.com^
+||data.mistat.intl.xiaomi.com^
+||target.smi2.net^
+||ipify.org^$3p
+||sape.ru^$3p
 ! All tracking domains and tracking pages (Stop)
