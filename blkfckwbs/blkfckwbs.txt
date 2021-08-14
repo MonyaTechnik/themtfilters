@@ -99,6 +99,8 @@ _pagespeed_beacon?
 /unagi.amazon.
 /batch/1/oe/*
 /counter?$domain=amazon.com|amazon.de|amazon.it|amazon.com.tr
+/cookieid.htm
+/keen-tracking.
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -658,4 +660,22 @@ counter.co.kz##p.b:nth-of-type(2)
 ||go.oracle.com^
 ||rnengage.com^$3p
 ||episerver.net^$3p
+||pxlgnpgecom-a.akamaihd.net^
+||techlab-cdn.com^$3p
+||evgnet.com/beacon/
+||company-target.com^$3p
+||optimizely.com^$3p
+||slack.com/clog/track/
+||srmdata.com^$3p
+||pepperjam.com^$3p
+||dynamicyield.com^$3p
+||lmcdn.ru^*/statistics.js
+||static.klaviyo.com/onsite/js/klaviyo.js
+||demdex.net^
+||monitor.azure.com^
+||c.xbox.com^
+||target.microsoft.com^
+||cdn.retailrocket.ru/*/tracking.js
+||group-ib.ru^$3p
+||unagi-*.amazon.com/1/events^
 ! All tracking domains and tracking pages (Stop)
