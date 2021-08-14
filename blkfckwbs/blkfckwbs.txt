@@ -101,6 +101,9 @@ _pagespeed_beacon?
 /counter?$domain=amazon.com|amazon.de|amazon.it|amazon.com.tr
 /cookieid.htm
 /keen-tracking.
+/glancecobrowseloader_
+/dfpsvc?
+/pixel.png?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -678,4 +681,24 @@ counter.co.kz##p.b:nth-of-type(2)
 ||cdn.retailrocket.ru/*/tracking.js
 ||group-ib.ru^$3p
 ||unagi-*.amazon.com/1/events^
+||hits-i.iubenda.com^
+||gamedistribution.com/collect?
+||referrer.disqus.com^
+||netflix.com/*/log|
+||sjsmartcontent.org^$3p
+||mybbc-analytics.files.bbci.co.uk^
+||permutive.com^
+||edigitalsurvey.com^$3p
+||ir.ebaystatic.com/rs/c/9527tracking/configuration.js$script,domain=ebay.com
+||svcs.ebay.com/delstats/imp/rtm
+||ebayrtm.com/rtm?rtmcmd*&enc=
+||pulsar.ebay.com^
+||ns1p.net^
+||rover.ebay.*/roverimp/*&trknvp=$image
+||ebay.com/scl/js/scandalloader.js
+||pages.ebay.com/identity/device/$subdocument
+||a.quora.com^
+||s.pinimg.com/ct/core.js
+/^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
+||iterable.com/analytics.js
 ! All tracking domains and tracking pages (Stop)
