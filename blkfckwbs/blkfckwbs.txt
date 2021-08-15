@@ -719,4 +719,8 @@ counter.co.kz##p.b:nth-of-type(2)
 ||adfox.yandex.ru^
 ||rambler.ru/metrics/
 ||p.yotpo.com^
+||7fvdh40aoz.ru^$3p
+||jin0cbonpi.ru^$3p
+||y8lsyibocd.ru^$3p
+||bgkecb.com^$3p
 ! All tracking domains and tracking pages (Stop)
