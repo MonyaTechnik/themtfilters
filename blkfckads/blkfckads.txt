@@ -144,4 +144,9 @@ rambler.ru##._3IGX.agbizua
 ||betsonsport.ru^
 ||baxofalis.com^$3p
 ||truenat.bid^$3p
+||main-ti-cod.com^
+||mp3lofts.com^$3p
+||traffic-media.co.uk^$3p
+||fresh-video.com^$3p
+||utarget.ru^
 ! Block ad domains and tracking pages (Stop)
