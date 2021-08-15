@@ -1,12 +1,12 @@
-! Use the blocklist to block most worst trackers and protect your privacy.
+! Use the blocklist to block dialogs.
 !
-! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwbs
+! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckonnwds
 ! ----------------------------------------------------------------------------------------------------------------------------------------------
 ! Users:      MonyaTechnik, 
 ! Format:     Adblocker list
 ! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
 !
-! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
+! Please contact me or on a issue on GitHub to block unblocked dialogs and problems:
 ! ----------------------------------------------------------------------------------------------------------------------------------------------
 ! Lev Spiridonov: spiridonowlev@yandex.ru
 ! GitHub issue: https://github.com/MonyaTechnik/themtfilters
@@ -14,6 +14,10 @@
 ! MonyaSoft, LevaSoft 2021
 !
 ! Start date: 15 August 2021, 14:34:18 AM
+
+! Unbreaks (Start)
+!
+! Unbreaks (Stop)
 
 ! For more domains (Start)
 ##.sp-show.sp-chrome92.sp-lang-ru.sp-chrome.sp-windows.sp-webpush-label
