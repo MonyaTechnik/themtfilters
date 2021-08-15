@@ -43,15 +43,21 @@ blogspot.com##.image-attribution
 ##._18H-q
 ! Ucoz
 ##.pbC3E6_3
+narod.ru###powered_by
+ucoz.net###powered_by
+usite.pro###powered_by
+ucoz.site###powered_by
+ucoz.club###powered_by
+ucoz.org###powered_by
+at.ua###powered_by
+my1.ru###powered_by
+clan.su###powered_by
+moy.su###powered_by
+do.am###powered_by
+ucoz.pl###powered_by
 ! Webnode
 webnode.ru##.cf.wnd-free-stripe
 webnode.ru##.cf.s-f-sf
 ##.cf.wnd-free-stripe
 ##.cf.s-f-sf
 ! Watermarks (Stop)
-
-! Shortlinks (Start)
-||tilda.cc/?upm=1608597
-||wix.com/lpviral/enviral
-||apps.wix.com/place-invites/join-lp/
-! Shortlinks (Stop)
