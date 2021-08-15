@@ -45,6 +45,10 @@ yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(8)
 yandex.*##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
 yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(28)
 yandex.*##div.news-app__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.turbo-advert
+yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.sport-advert
+yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.neo-advert_status_error
+yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.neo-advert
 
 ! For more domains
 ##div[id^="yandex_rtb"]
