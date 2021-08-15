@@ -35,6 +35,9 @@ comss.ru##img[src*="//cdn.comss.net/action/"]
 comss.ru##.container-fluid > div[class="container uphead"]
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+ultraiso-ezb.ru###gada2
+ultraiso-ezb.ru###gada
+activation-keys.ru##p:nth-of-type(2)
 
 ! For more domains
 ##div[id^="yandex_rtb"]
@@ -45,10 +48,11 @@ youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
 
 ! Block "Block your Adblock now!" messages (Start)
 rambler.ru##.rui__3_IS5.rui__3EEui
+activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 ! Block "Block your Adblock now!" messages (Start)
 
 ! Block all ads directory (Start)
-/adfox/
+/adfox/*
 .ru/ads/
 .com/adx/
 .net/bnr/
@@ -138,4 +142,6 @@ rambler.ru##._3IGX.agbizua
 ||rutrk.org^
 ||admitad-connect.com^$3p,domain=~admitad.com
 ||betsonsport.ru^
+||baxofalis.com^$3p
+||truenat.bid^$3p
 ! Block ad domains and tracking pages (Stop)
