@@ -702,4 +702,6 @@ counter.co.kz##p.b:nth-of-type(2)
 /^https?:\/\/fast\.appcues\.com\/[0-9]{4,6}\.js/
 ||iterable.com/analytics.js
 ||report.appmetrica.yandex.net^
+||analytics.dns-shop.ru^
+||flixsyndication.net^$3p
 ! All tracking domains and tracking pages (Stop)
