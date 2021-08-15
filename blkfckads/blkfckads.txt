@@ -29,6 +29,10 @@ dns-shop.ru##.single-banner-container_catalog_head.single-banner-container
 !
 ! Unbreaks (Stop)
 
+! Fix bad design (Start)
+dns-shop.ru##.products-list__banner
+! Fix bad design (Stop)
+
 ||doubleclick.net^
 ||googleadservices.com^
 ||ad.mail.ru^
