@@ -15,9 +15,20 @@
 !
 ! Start date: 12 August 2021, 14:16:17 AM
 
+! Block CSS and Div ads (Start)
 duckduckgo.com##.js-results-ads
 duckduckgo.com###ads
+dns-shop.ru##.single-banner-container_catalog_head.single-banner-container
+! Block CSS and Div ads (Stop)
+
+! Block all ads directory (Start)
 /adfox/
+! Block all ads directory (Stop)
+
+! Unbreaks (Start)
+!
+! Unbreaks (Stop)
+
 ||doubleclick.net^
 ||googleadservices.com^
 ||ad.mail.ru^
