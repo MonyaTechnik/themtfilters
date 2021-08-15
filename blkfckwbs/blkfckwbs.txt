@@ -105,6 +105,9 @@ _pagespeed_beacon?
 /dfpsvc?
 /pixel.png?
 /cdn-cgi/rum?
+/log?format=
+/frontend-gtag.
+/pixel-caffeine/*
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -723,4 +726,12 @@ counter.co.kz##p.b:nth-of-type(2)
 ||jin0cbonpi.ru^$3p
 ||y8lsyibocd.ru^$3p
 ||bgkecb.com^$3p
+||torvind.com^$3p
+||mrelko.com^
+||s.pr-cy.ru/counters/
+||nr-data.net^
+||onetag-sys.com^$3p
+||omappapi.com^$3
+||instant.page^$3p
+||r.mail.ru^$script
 ! All tracking domains and tracking pages (Stop)
