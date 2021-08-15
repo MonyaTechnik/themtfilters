@@ -42,7 +42,7 @@ activation-keys.ru##p:nth-of-type(2)
 ! For more domains
 ##div[id^="yandex_rtb"]
 ##.adsbygoogle
-
+##iframe[id^="google_ads_frame"]
 
 ! Block CSS and Div ads (Stop)
 
