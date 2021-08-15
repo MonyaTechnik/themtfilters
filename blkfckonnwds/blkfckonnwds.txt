@@ -15,6 +15,13 @@
 !
 ! Start date: 15 August 2021, 14:34:18 AM
 
+! For domains (Start)
+activation-keys.ru###rb_dark_area
+activation-keys.ru##body > div > p
+activation-keys.ru##.darkeArrow
+activation-keys.ru##.VwlOsqx3b417XuZGRohT
+! For domains (Stop)
+
 ! Unbreaks (Start)
 !
 ! Unbreaks (Stop)
