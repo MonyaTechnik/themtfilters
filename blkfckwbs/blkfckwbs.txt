@@ -734,4 +734,5 @@ counter.co.kz##p.b:nth-of-type(2)
 ||omappapi.com^$3
 ||instant.page^$3p
 ||r.mail.ru^$script
+||1l-hit.mail.ru^
 ! All tracking domains and tracking pages (Stop)
