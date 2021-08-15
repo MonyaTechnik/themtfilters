@@ -20,6 +20,7 @@ activation-keys.ru###rb_dark_area
 activation-keys.ru##body > div > p
 activation-keys.ru##.darkeArrow
 activation-keys.ru##.VwlOsqx3b417XuZGRohT
+games.mail.ru##.custom-push
 ! For domains (Stop)
 
 ! Unbreaks (Start)
