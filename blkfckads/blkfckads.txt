@@ -16,14 +16,48 @@
 ! Start date: 12 August 2021, 14:16:17 AM
 
 ! Block CSS and Div ads (Start)
+
+! For domains
 duckduckgo.com##.js-results-ads
 duckduckgo.com###ads
 dns-shop.ru##.single-banner-container_catalog_head.single-banner-container
+ideaprog.download##.new1_yapr
+vipbaks.com###right > .block_c
+pcprogs.net##[href="/downloadtc.php"] > picture > .loaded
+softobar.com##.ydist-popup.ypopup1
+softobar.com##.b-r--before-site-content.b-r
+windows-7.ru##center:nth-of-type(2)
+provayder.net##.ivi-b
+translate.yandex.*##.footer-links-item_browser
+yandex.*##.g1__rM
+comss.ru##.hidden-sm.hidden-xs.container-fluid
+comss.ru##img[src*="//cdn.comss.net/action/"]
+comss.ru##.container-fluid > div[class="container uphead"]
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+
+! For more domains
+##div[id^="yandex_rtb"]
+##.adsbygoogle
+
+
 ! Block CSS and Div ads (Stop)
+
+! Block "Block your Adblock now!" messages (Start)
+rambler.ru##.rui__3_IS5.rui__3EEui
+! Block "Block your Adblock now!" messages (Start)
 
 ! Block all ads directory (Start)
 /adfox/
+.ru/ads/
+.com/adx/
+.net/bnr/
+.com/js/adsense
 ! Block all ads directory (Stop)
+
+! Block all ads files (Start)
+-728x90.
+! Block all ads files (Stop)
 
 ! Unbreaks (Start)
 !
@@ -31,8 +65,11 @@ dns-shop.ru##.single-banner-container_catalog_head.single-banner-container
 
 ! Fix bad design (Start)
 dns-shop.ru##.products-list__banner
+vipbaks.com###right > .bluestrip
+rambler.ru##._3IGX.agbizua
 ! Fix bad design (Stop)
 
+! Block ad domains and tracking pages (Start)
 ||doubleclick.net^
 ||googleadservices.com^
 ||ad.mail.ru^
@@ -59,3 +96,46 @@ dns-shop.ru##.products-list__banner
 ||smntq.com^$3p
 ||adsglobal.ru^$3p
 ||pubmatic.com^
+||adskeeper.co.uk^
+||franeski.net^
+||franecki.net^
+||adskepper.com^
+||googletagmanager.com^
+||snigelweb.com^$3p
+||google.com/adsense/search/
+||optad360.io^$3p
+||backforward.bid^$3p
+||ad1.sibnet.ru^
+||adnxs.com^
+||ufiler-pro.ru^
+||click.aliexpress.com^$subdocument,3p
+||spylees.com^$3p
+||moevideo.biz^$3p
+||cloudfastads.ru^$3p
+||2xclick.ru^$3p
+||directadvert.ru^$3p
+||gnezdo.ru^
+||ktvgv.com^$3p
+||zrcir.com^$3p
+||revolvermaps.com^$3p
+||trafficbass.com^
+||mp3bars.com^
+||servw.bid^$3p
+||hudasion.com^$3p
+||am15.net^
+||kinoclub77.ru^$3p
+||windows-program.com/img/yad
+||bubblesmedia.ru^
+||uuidksinc.net^$3p
+||gamerickius.com^$3p
+||webpushr.com^$3p
+||roserobotx.online^
+||newup.bid^$3p
+||adriver.ru^
+||betweendigital.com^$3p
+||static-mon.yandex.net/static/main.js
+||adfox.ru^
+||rutrk.org^
+||admitad-connect.com^$3p,domain=~admitad.com
+||betsonsport.ru^
+! Block ad domains and tracking pages (Stop)
