@@ -44,6 +44,7 @@ yandex.*##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-g
 yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(8)
 yandex.*##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
 yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.*##div.news-app__heading.news-top-rubric-heading:nth-of-type(8)
 
 ! For more domains
 ##div[id^="yandex_rtb"]
