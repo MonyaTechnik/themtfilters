@@ -104,6 +104,7 @@ _pagespeed_beacon?
 /glancecobrowseloader_
 /dfpsvc?
 /pixel.png?
+/cdn-cgi/rum?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -455,7 +456,6 @@ counter.co.kz##p.b:nth-of-type(2)
 ||levelaccess.net/analytics/
 ||p.typekit.net^$3p
 ||trafficdok.com^
-||roserobotx.online^
 ||appsflyer.com^$3p
 ||useinsider.com^$3p
 ||statcounter.com^$3p
@@ -704,4 +704,19 @@ counter.co.kz##p.b:nth-of-type(2)
 ||report.appmetrica.yandex.net^
 ||analytics.dns-shop.ru^
 ||flixsyndication.net^$3p
+||mc-ya.ru^$3p
+||track.analitycs.net^
+||toptracker.ru^$3p
+||kost.tv^
+||allstat-pp.ru^$3p
+||yanews24.com^$3p
+||k3node.com^$3p
+||widgets.pinterest.com/*/urls/count.json
+||tafrebadus.com^$3p
+||rang.com.ua^$3p
+||jsengine.ru/geoproxy/ip
+||cloud.roistat.com^$3p
+||adfox.yandex.ru^
+||rambler.ru/metrics/
+||p.yotpo.com^
 ! All tracking domains and tracking pages (Stop)
