@@ -38,6 +38,7 @@ youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
 ultraiso-ezb.ru###gada2
 ultraiso-ezb.ru###gada
 activation-keys.ru##p:nth-of-type(2)
+hyperhost.ua##.top-banner
 
 ! For more domains
 ##div[id^="yandex_rtb"]
@@ -57,6 +58,7 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 .com/adx/
 .net/bnr/
 .com/js/adsense
+/prebid/*
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
@@ -149,4 +151,12 @@ rambler.ru##._3IGX.agbizua
 ||traffic-media.co.uk^$3p
 ||fresh-video.com^$3p
 ||utarget.ru^
+||gnogle.ru^$3p
+||e-planning.net^
+||rubiconproject.com^
+||justpremium.com^
+||ad-score.com^
+||investing.com/jp.php
+||zemanta.com^
+||outbrain.com^$3p
 ! Block ad domains and tracking pages (Stop)
