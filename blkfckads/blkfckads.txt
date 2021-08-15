@@ -39,11 +39,11 @@ ultraiso-ezb.ru###gada2
 ultraiso-ezb.ru###gada
 activation-keys.ru##p:nth-of-type(2)
 hyperhost.ua##.top-banner
-yandex.ru##.mg-grid__col_sm_3.mg-grid__col_xs_0.mg-grid__col
-yandex.ru##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
-yandex.ru##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(8)
-yandex.ru##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
-yandex.ru##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(28)
+yandex.*##.mg-grid__col_sm_3.mg-grid__col_xs_0.mg-grid__col
+yandex.*##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(9)
+yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(8)
+yandex.*##div.g5lXPy0oQyaY__g03TV-group.news-g03TV-group.mg-grid__row_gap_8.mg-grid__row:nth-of-type(29)
+yandex.*##div.g5lXPy0oQyaY__heading.news-top-rubric-heading:nth-of-type(28)
 
 ! For more domains
 ##div[id^="yandex_rtb"]
