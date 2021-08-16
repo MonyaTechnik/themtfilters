@@ -49,6 +49,15 @@ yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yande
 yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.sport-advert
 yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.neo-advert_status_error
 yandex.by,yandex.com,yandex.com.tr,yandex.fr,yandex.kz,yandex.ru,yandex.ua,yandex.md##.neo-advert
+blackhatworld.com##.bhw-banners
+blackhatworld.com##.bhw-advertise-link
+blackhatworld.com##.message-signature a[target="_blank"] > img
+bitcoins-mining.net###shortcodes-ultimate-257
+bitcoins-mining.net###shortcodes-ultimate-255
+bitcoins-mining.net###shortcodes-ultimate-321
+bitcoins-mining.net###shortcodes-ultimate-317
+bitcoins-mining.net###shortcodes-ultimate-323
+bitcoins-mining.net###full-width-footer
 
 ! For more domains
 ##div[id^="yandex_rtb"]
@@ -169,4 +178,5 @@ rambler.ru##._3IGX.agbizua
 ||investing.com/jp.php
 ||zemanta.com^
 ||outbrain.com^$3p
+||advertserve.com^
 ! Block ad domains and tracking pages (Stop)
