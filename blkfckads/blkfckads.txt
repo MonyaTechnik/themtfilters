@@ -58,12 +58,16 @@ bitcoins-mining.net###shortcodes-ultimate-321
 bitcoins-mining.net###shortcodes-ultimate-317
 bitcoins-mining.net###shortcodes-ultimate-323
 bitcoins-mining.net###full-width-footer
+bitcoins-mining.net##p:nth-of-type(82)
+kp.ru##aside[class^="styled__Aside-"] > div:style(height: auto !important)
+kp.ru##div[data-slot-name]
+
 
 ! For more domains
 ##div[id^="yandex_rtb"]
 ##.adsbygoogle
 ##iframe[id^="google_ads_frame"]
-
+##div[id^="crt-"][style]
 ! Block CSS and Div ads (Stop)
 
 ! Block "Block your Adblock now!" messages (Start)
@@ -82,6 +86,7 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 
 ! Block all ads files (Start)
 -728x90.
+/banner.gif$domain=~e.aviasales.ru
 ! Block all ads files (Stop)
 
 ! Unbreaks (Start)
@@ -179,4 +184,7 @@ rambler.ru##._3IGX.agbizua
 ||zemanta.com^
 ||outbrain.com^$3p
 ||advertserve.com^
+||payeer.com^$3p
+||pulse.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~pulse.mail.ru
+||youtube.com/pagead/
 ! Block ad domains and tracking pages (Stop)
