@@ -1,5 +1,5 @@
 # The Monya Technik's Filters
-The Monya Technik's filters helps block ads and trackers and more.
+The Monya Technik's filters helps block ads and trackers and more. Blocks hidden trackers, watermarks, ads, and more.
 # Sponsors:
 + LevSpiridonov (https://github.com/spiri-leo)
 + Monya Technik (https://github.com/MonyaTechnik)
@@ -9,7 +9,7 @@ The Monya Technik's filters helps block ads and trackers and more.
 + BlkFckWbs (Tracking blocking)
 + BlkFckWtmrk (Block site watermarks)
 + BlkFckAds (Block ads)
-+ BlkFckOnnwds (Block dialogd)
++ BlkFckOnnwds (Block dialogs)
 # Support:
 Contact email: spiridonowlev@yandex.ru
 
