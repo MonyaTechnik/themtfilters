@@ -61,6 +61,7 @@ bitcoins-mining.net###full-width-footer
 bitcoins-mining.net##p:nth-of-type(82)
 kp.ru##aside[class^="styled__Aside-"] > div:style(height: auto !important)
 kp.ru##div[data-slot-name]
+zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefined.article__content > .article__right_narrow.article__right_theme_undefined.article__right
 
 
 ! For more domains
@@ -82,6 +83,7 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 .net/bnr/
 .com/js/adsense
 /prebid/*
+/?pu=$script
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
@@ -187,4 +189,6 @@ rambler.ru##._3IGX.agbizua
 ||payeer.com^$3p
 ||pulse.mail.ru^$domain=~e.mail.ru|~octavius.mail.ru|~pulse.mail.ru
 ||youtube.com/pagead/
+||zenadservices.net^$3p
+||app-measurement.com^
 ! Block ad domains and tracking pages (Stop)
