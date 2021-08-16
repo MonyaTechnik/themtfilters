@@ -108,6 +108,10 @@ _pagespeed_beacon?
 /log?format=
 /frontend-gtag.
 /pixel-caffeine/*
+/comscore.
+/i?stm=
+/adsct?
+/px.gif?
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -149,6 +153,7 @@ www.google.*##+js(remove-attr, ping, div[id="search"] a[data-ved][ping])
 ##img[src^="c.bigmir.net"]
 search.brave.com##+js(no-fetch-if, body:cohort)
 ##a[href^="http://www.liveinternet.ru/stat/"]
+##a[href^="http://top.mail.ru/jump"]
 ! DOM trackers (Stop)
 
 ! Other (Start)
@@ -735,4 +740,9 @@ counter.co.kz##p.b:nth-of-type(2)
 ||instant.page^$3p
 ||r.mail.ru^$script
 ||1l-hit.mail.ru^
+||r.megogo.net^
+||telemetry.tradingview.com^
+||analytics.twitter.com^
+||tradingview.com/ping
+||roblox.com/www/e.png?
 ! All tracking domains and tracking pages (Stop)
