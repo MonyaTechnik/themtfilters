@@ -35,6 +35,8 @@ comss.ru##img[src*="//cdn.comss.net/action/"]
 comss.ru##.container-fluid > div[class="container uphead"]
 youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
 youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##.ytp-ad-progress-list
 ultraiso-ezb.ru###gada2
 ultraiso-ezb.ru###gada
 activation-keys.ru##p:nth-of-type(2)
@@ -69,6 +71,7 @@ zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefi
 ##.adsbygoogle
 ##iframe[id^="google_ads_frame"]
 ##div[id^="crt-"][style]
+##.ad-free-upsell-container
 ! Block CSS and Div ads (Stop)
 
 ! Block "Block your Adblock now!" messages (Start)
@@ -84,6 +87,8 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 .com/js/adsense
 /prebid/*
 /?pu=$script
+/banner-ad-
+/sdkconfig.ad.
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
@@ -191,4 +196,48 @@ rambler.ru##._3IGX.agbizua
 ||youtube.com/pagead/
 ||zenadservices.net^$3p
 ||app-measurement.com^
+||canyoublockit.com/wp-content/uploads/nzraxtwifgbg/
+||steadfastsystem.com^
+||ad.xiaomi.com^
+||ad.xiaomi.intl.com^
+||ad1.xiaomi.com^
+||ad.mi.com^
+||sascdn.com/tag/
+||maxmind.com/geoip/$3p
+||crashlytics.com^
+||ads.bullfrogapp.com
+||ads.taboola.com^
+||ads.xtribeapp.com^
+||ads.yahoosmallbusiness.com^
+||ads.watson.ch^
+||ads.spotify.com^
+||ads.socialtheater.com^
+||ads.snapchat.com^
+||ads.safi-gmbh.ch^
+||ads.route.cc^
+||ads.quasaraffiliates.com^
+||ads.olx.pl^
+||ads.odesbuild.com^
+||ads.nimses.com^
+||ads.msk.dk^
+||ads.msstate.edu^
+||ads.mobilebet.com^
+||ads.microsoft.com^
+||ads.lordlucky.com^
+||ads.lapalingo.com^
+||ads.harvard.edu^
+||ads.google.com^
+||ads.gambinoslot.com^
+||ads.elcarado.com^
+||ads.dollartree.com^
+||ads.cvut.cz^
+||ads.comeon.com^
+||ads.colombiaonline.com^
+||ads.buscaempresas.co^
+||ads.brave.com^
+||ads.bigbom.com^
+||ads.atmosphere.copernicus.eu^
+||ads.allegro.pl^
+||ads.adstream.com.ro^
+||ads.ac.uk^
 ! Block ad domains and tracking pages (Stop)
