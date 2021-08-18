@@ -774,4 +774,5 @@ counter.co.kz##p.b:nth-of-type(2)
 ||booking.com/js_tracking?
 ||booking.com/logo?
 ||s7target.ru^$3p
+||browser.events.data.microsoft.com^
 ! All tracking domains and tracking pages (Stop)
