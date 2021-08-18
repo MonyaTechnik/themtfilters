@@ -89,6 +89,8 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 /?pu=$script
 /banner-ad-
 /sdkconfig.ad.
+/ads.css
+/FC.Ads.js
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
@@ -240,4 +242,6 @@ rambler.ru##._3IGX.agbizua
 ||ads.allegro.pl^
 ||ads.adstream.com.ro^
 ||ads.ac.uk^
+||hybrid.ai^
+||c0.adalyser.com^
 ! Block ad domains and tracking pages (Stop)
