@@ -114,6 +114,9 @@ _pagespeed_beacon?
 /px.gif?
 /visitor.min.js
 */piwik.
+/j.gif?
+/perimeterx/*
+/adrum-
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -766,4 +769,9 @@ counter.co.kz##p.b:nth-of-type(2)
 ||tracking.rus.miui.com^
 ||data-mistat-india-xiaomi-com-1248219176.ap-south-1.elb.amazonaws.com^
 ||browser.mi-img.com^
+||mutinycdn.com^$3p
+||mamka.aviasales.ru^
+||booking.com/js_tracking?
+||booking.com/logo?
+||s7target.ru^$3p
 ! All tracking domains and tracking pages (Stop)
