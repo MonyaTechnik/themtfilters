@@ -91,6 +91,7 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 /sdkconfig.ad.
 /ads.css
 /FC.Ads.js
+/adservice.$domain=~adservice.io
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
