@@ -64,7 +64,7 @@ bitcoins-mining.net##p:nth-of-type(82)
 kp.ru##aside[class^="styled__Aside-"] > div:style(height: auto !important)
 kp.ru##div[data-slot-name]
 zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefined.article__content > .article__right_narrow.article__right_theme_undefined.article__right
-
+xda-developers.com##+js(remove-class, twig-body)
 
 ! For more domains
 ##div[id^="yandex_rtb"]
@@ -72,6 +72,7 @@ zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefi
 ##iframe[id^="google_ads_frame"]
 ##div[id^="crt-"][style]
 ##.ad-free-upsell-container
+##div[data-role="sidebarAd"]
 ! Block CSS and Div ads (Stop)
 
 ! Block "Block your Adblock now!" messages (Start)
@@ -97,6 +98,11 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 ! Block all ads files (Start)
 -728x90.
 /banner.gif$domain=~e.aviasales.ru
+/728x90.
+/adslot-
+/img/adv/*
+/ads/web/*
+/prebid.$domain=~prebid.org
 ! Block all ads files (Stop)
 
 ! Unbreaks (Start)
@@ -245,4 +251,14 @@ rambler.ru##._3IGX.agbizua
 ||ads.ac.uk^
 ||hybrid.ai^
 ||c0.adalyser.com^
+||criteo.net^
+||rereddit.com^
+||tgwidget.com^$3p
+||adhigh.net^
+||adform.net^
+||adinplay.com^$3p
+||revampcdn.com^
+||sharethrough.com^
+||pub.network^
+||impactradius-go.com^$3p
 ! Block ad domains and tracking pages (Stop)
