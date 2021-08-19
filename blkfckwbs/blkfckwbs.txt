@@ -117,6 +117,9 @@ _pagespeed_beacon?
 /j.gif?
 /perimeterx/*
 /adrum-
+/analytics/tms_
+/cmp2.js
+/mixpanel.$domain=~mixpanel.com
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -774,4 +777,38 @@ counter.co.kz##p.b:nth-of-type(2)
 ||booking.com/logo?
 ||s7target.ru^$3p
 ||browser.events.data.microsoft.com^
+||privacy-policy.truste.com^$3p
+||pcmag.com/js/z0wvjcbseegloxixoqvewq.min.js
+||g.pcmag.com^
+||nytimes.com/svc/nyt/data-layer?
+||nytimes.com/v1/purr-cache
+||meter-svc.nytimes.com^
+||nyt.com/ads/tpc-check.html$domain=nytimes.com
+||et.nytimes.com^
+||als-svc.nytimes.com^
+||geoedge.be^$3p
+||bugherd.com^$3p
+||zoominfo.com/pixel/
+||mixpanel.com/track
+||api-js.mixpanel.com/engage/?
+||wisepops.com^
+||dct.mango-office.ru^$3p
+||xapi.ozon.ru^
+||cdn-rum.ngenix.net^
+||io.narrative.io^
+||pippio.com^
+||live.rezync.com^
+||log.reformal.ru^
+||yandex.ru/log?
+||awsync.yandex.ru^$3p
+||datamind.ru^$3p
+||rnet.plus^$3p
+||livejournal.com/ljcounter/?
+||geojs.io^$3p
+||parsely.com^
+||stack-sonar.com^
+||pxf.io^$3p
+||mktoresp.com^
+||logs.datadoghq.com^$3p
+||amazon.*/action-impressions/
 ! All tracking domains and tracking pages (Stop)
