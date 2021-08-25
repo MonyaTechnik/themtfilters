@@ -65,7 +65,48 @@ kp.ru##aside[class^="styled__Aside-"] > div:style(height: auto !important)
 kp.ru##div[data-slot-name]
 zen.yandex.ru##.article_theme_undefined.article > .article__content_theme_undefined.article__content > .article__right_narrow.article__right_theme_undefined.article__right
 xda-developers.com##+js(remove-class, twig-body)
-
+ld-player.ru##.pk
+ld-player.ru##[href="https://extlinka.ru/r/29091/"]
+mail.ru##+js(set-constant, Object.prototype.baits, undefined)
+mail.ru##+js(set-constant, Object.prototype.getSlotByMimic, undefined)
+mail.ru##+js(set-constant, Object.prototype.honeyPot, undefined)
+mail.ru##+js(set-constant, Object.prototype.hpConfig, undefined)
+mail.ru##+js(set-constant, Object.prototype.initMimic, undefined)
+mail.ru##+js(set-constant, Object.prototype.mimic, undefined)
+mail.ru##+js(set-constant, document.title, null)
+mail.ru##+js(no-setTimeout-if, advBlock)
+mail.ru##+js(no-setTimeout-if, rbParams)
+ok.ru##+js(abort-on-property-read, OK.hooks)
+ok.ru##+js(abort-on-property-write, mailruEnabled)
+ok.ru##+js(set-constant, Object.prototype.getAds, undefined)
+vk.com##+js(abort-on-property-read, PageBottomBanners)
+vk.com##+js(abort-on-property-read, Unauthorized)
+iz.ru##+js(set-constant, Object.prototype.autoplay, false)
+my.mail.ru##+js(set-constant, Object.prototype.runMimic, noopFunc)
+my.mail.ru##+js(window.open-defuser, 1, /:\/\/r\.mail\.ru\//)
+my.mail.ru##+js(abort-on-property-read, AdmanHTML)
+my.mail.ru##+js(window.open-defuser, clb670603)
+my.mail.ru#@#+js(set-constant, Object.prototype.baits, undefined)
+my.mail.ru#@#+js(set-constant, Object.prototype.getSlotByMimic, undefined)
+my.mail.ru#@#+js(set-constant, Object.prototype.mimic, undefined)
+my.mail.ru#@#+js(set-constant, document.title, null)
+my.mail.ru##.b-fourth-pseudo-column
+my.mail.ru###adv_right_column
+go.mail.ru#@#+js(set-constant, Object.prototype.baits, undefined)
+go.mail.ru#@#+js(set-constant, Object.prototype.getSlotByMimic, undefined)
+go.mail.ru#@#+js(set-constant, document.title, null)
+mail.ru##+js(set-constant, Object.prototype.direct, undefined)
+iz.ru##.partner_before_head
+iz.ru##.two-col-with-advertise2__right
+iz.ru##.two-col-with-partner__inside__right
+iz.ru##[id^="unit_"]
+iz.ru##div[class*="banner"]
+1tv.ru##+js(set-constant, Object.prototype.disableSeek, noopFunc)
+1tv.ru##+js(set-constant, window.EUMP.plugins.antiblock, noopFunc)
+aboba.ru##.b-r--before-site-content.b-r
+aboba.ru##.widget_block.widget
+techpowerup.com##.nkuzlfvdywj
+softslot.com##[href="https://clck.ru/TXd9e"]
 ! For more domains
 ##div[id^="yandex_rtb"]
 ##.adsbygoogle
@@ -93,6 +134,34 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 /ads.css
 /FC.Ads.js
 /adservice.$domain=~adservice.io
+/webanalytics.$domain=~webanalytics.italia.it
+/v1/ads/*
+/advertising.$other,domain=~advertising.amazon.ae|~advertising.amazon.ca|~advertising.amazon.cn|~advertising.amazon.co.jp|~advertising.amazon.co.uk|~advertising.amazon.com|~advertising.amazon.com.au|~advertising.amazon.com.mx|~advertising.amazon.de|~advertising.amazon.es|~advertising.amazon.fr|~advertising.amazon.in|~advertising.amazon.it|~advertising.amazon.sa|~advertising.berlin-airport.de|~advertising.boardgamegeek.com|~advertising.bulurum.com|~advertising.byhoxby.com|~advertising.dailymotion.com|~advertising.expedia.com|~advertising.greunenberg.com|~advertising.hulu.com|~advertising.lavenir.net|~advertising.mobile.de|~advertising.nzme.co.nz|~advertising.org.il|~advertising.racingpost.com|~advertising.roku.com|~advertising.scoop.co.nz|~advertising.sevenwestmedia.com.au|~advertising.shpock.com|~advertising.theguardian.com|~advertising.utexas.edu|~advertising.vrisko.gr|~advision.com
+/custom_ads.
+/forum/ads/*
+/forum/docs/requests.js$script,domain=nnm-club.lib|nnm-club.me|nnm-club.ws|nnmclub.ro|nnmclub.to|nontorclub.in.net
+/reklama.$image,domain=~pracuj.pl|~reklama.cinema.sk|~reklama.grajewo.net.pl|~reklama.mariafm.ru|~reklama.ringieraxelspringer.pl
+/busting/*/gtm-
+/quick-adsense-reloaded/*
+/site_ads/*
+/display-ad/*
+/curveball/ads/*
+/moneyball/ads/*
+/ads/scripts/*
+/images/ad_
+/js/prebid-
+/ads/native.
+/sponsored-articles/*$xmlhttprequest
+/ads/assets/*
+/delivery/fc.
+/ad-lib/*
+/reklama/*
+/components/ads/*
+/matrix/ad/*
+/adjs/*
+/home/ad_
+/adsame/*
+/img/ad.
 ! Block all ads directory (Stop)
 
 ! Block all ads files (Start)
@@ -103,6 +172,12 @@ activation-keys.ru##.clearfy-cookie--bottom.clearfy-cookie
 /img/adv/*
 /ads/web/*
 /prebid.$domain=~prebid.org
+-ad/dist/
+_300x250.
+.adsales.
+.net/ads-
+_ad_change.
+-prebid.$script
 ! Block all ads files (Stop)
 
 ! Unbreaks (Start)
@@ -261,4 +336,73 @@ rambler.ru##._3IGX.agbizua
 ||sharethrough.com^
 ||pub.network^
 ||impactradius-go.com^$3p
+||vlitag.com^
+||servedby-buysellads.com^
+||carbonads.com^
+||dev.appboy.com^
+||d2v02itv0y9u9t.cloudfront.net^
+||amazon-adsystem.com/aax2/apstag.js$script,important,domain=twitch.tv
+||moatads.com^
+||criteo.com^
+||imasdk.googleapis.com^
+||casalemedia.com^
+||yahoo.com/bidrequest?
+||connatix.com/connatix.playspace.js$script,3p
+||script-api.kinja.com/script?
+||adlightning.com^
+||weblion777.github.io^$3p
+||aj1907.online^
+||actlz.github.io/actualize.js$domain=~kindkino.ru
+||vak345.com^
+||dyncdn.me/static/20/js/expla*.js$important
+||alicdn.com^$domain=nnm-club.lib|nnm-club.me|nnmclub.ro|nnmclub.to|prostolinux.ru|ru-an.info|rutracker.ru|savepic.ru|smartbobr.ru|uraltrack.net|vsaduidoma.com
+||securemoney.ru^
+||springserve.com^
+||blogherads.com^
+||player.anyclip.com/anyclip-widget/$script,3p
+||b2c.com^$3p
+||zergnet.com^$script,3p
+||rbreal.bid^$3p
+||pulse.mail.ru/pulse-widget.js$domain=~mail.ru
+||applovin.com^
+||stickyadstv.com^
+||mparticle.com^$3p
+||cdn.branch.io^
+||adsafeprotected.com^
+||fwmrm.net^$script,3p
+||google.com/adsense/domains
+||adlightning.com^
+||yimg.com/dy/ads/readmo.js
+||redventures.io^$3p
+||digitalgov.gov/universal-federated-analytics-min.js
+||etsy.com/bcn/beacon
+||fundingchoicesmessages.google.com^$3p
+||ziffstatic.com/pg/
+||connextra.com^
+||player.anyclip.com/anyclip-widget/$script,3p
+||cdp.cloud.unity3d.com^
+||ga.clearbit.com^
+||wikihow.com/x/zscsucgm?
+||firstimpression.io^$3p
+||massariuscdn.com^
+||152media.com^$3p
+||rt.com/ya_welcome/
+||rt.com/widget/main-banner-top/
+||statsforads.com^$3p
+||litres.ru/pages/get_vidget/?
+||adrun.ru^$3p
+||lenkmio.com^
+||hostedprebid.com^$3p
+||clickfuse.com^
+||www-orbit-promo.ru^$3p
+||buysellads.net^$3p
+||p.tanx.com^
+||xinhuanet.com/s?
+||sabavision.com^
+||3lift.com^
+||adservice.google.com^
+||adsrvr.org^
+||ml314.com^
+||pro-market.net^
+||yunshipei.com^
 ! Block ad domains and tracking pages (Stop)
