@@ -1059,4 +1059,5 @@ counter.co.kz##p.b:nth-of-type(2)
 ||tms-st.cdn.ngenix.net^
 ||cdn.retailrocket.*/*/tracking.js
 ||trmit.com^
+||visitor-analytics.io^$3p
 ! All tracking domains and tracking pages (Stop)
