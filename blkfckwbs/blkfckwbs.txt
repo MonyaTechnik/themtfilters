@@ -1060,4 +1060,5 @@ counter.co.kz##p.b:nth-of-type(2)
 ||cdn.retailrocket.*/*/tracking.js
 ||trmit.com^
 ||visitor-analytics.io^$3p
+||paypalobjects.com^*/pixel.gif
 ! All tracking domains and tracking pages (Stop)
