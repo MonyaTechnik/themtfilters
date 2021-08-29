@@ -804,7 +804,7 @@ counter.co.kz##p.b:nth-of-type(2)
 ||s.pr-cy.ru/counters/
 ||nr-data.net^
 ||onetag-sys.com^$3p
-||omappapi.com^$3
+||omappapi.com^$3p
 ||instant.page^$3p
 ||r.mail.ru^$script
 ||1l-hit.mail.ru^
