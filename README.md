@@ -17,9 +17,9 @@ Or create issue on this repository (only your adblocker and browser and operatin
 # The files to add your adblocker:
 You can copy this links to add your adblocker.
 
-* BlkFckWbs:    https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt
-* BlkFckWtmrk:  https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt
-* BlkFckAds:    https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt
+* BlkFckWbs: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt
+* BlkFckWtmrk: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt
+* BlkFckAds: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt
 * BlkFckOnnwds: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt
 # Warning!
 This all filters on Monya Technik's Filters, get problems and bugs and errors.
