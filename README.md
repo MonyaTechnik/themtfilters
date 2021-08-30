@@ -22,10 +22,12 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 # The files to add your adblocker:
 You can copy this links to add your adblocker.
 
-BlkFckWbs: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt
-BlkFckWtmrk: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt
-BlkFckAds: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt
-BlkFckOnnwds: https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt
+| Filter name  | Blocking category       | Filter file |
+| -----------  | -----------------       | ----------- |
+| BlkFckWbs    | Tracking and telemetry  | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt) |
+| BlkFckAds    | Ads                     | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt) |
+| BlkFckWtmrk  | Watermarks on free site | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt) |
+| BlkFckOnnwds | Dialogs                 | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
 
 # Warning!
 This all filters on Monya Technik's Filters, get problems and bugs and errors.
