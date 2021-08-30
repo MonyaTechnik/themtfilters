@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## The Monya Technik's Filters
 
 You can use the [editor on GitHub](https://github.com/MonyaTechnik/themtfilters/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
