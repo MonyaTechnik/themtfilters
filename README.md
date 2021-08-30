@@ -11,9 +11,9 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 + BlkFckAds (Block ads)
 + BlkFckOnnwds (Block dialogs)
 # Support:
-Contact email: spiridonowlev@yandex.ru or workmaillev@inbox.ru or cpiridon47@gmail.com (only your adblocker and browser and operating system information)
+* Contact email: spiridonowlev@yandex.ru or workmaillev@inbox.ru or cpiridon47@gmail.com (only your adblocker and browser and operating system information)
 
-Or create issue on this repository (only your adblocker and browser and operating system information)
+* Or create issue on this repository (only your adblocker and browser and operating system information)
 # The files to add your adblocker:
 You can copy this links to add your adblocker.
 
