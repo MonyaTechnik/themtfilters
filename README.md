@@ -27,10 +27,19 @@ You can copy this links to add your adblocker.
 
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
-| BlkFckWbs    | Tracking and telemetry  | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt) |
-| BlkFckAds    | Ads                     | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt) |
-| BlkFckWtmrk  | Watermarks on free site | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt) |
+| BlkFckWbs    | Tracking and telemetry  | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt)       | 
+| BlkFckAds    | Ads                     | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt)       |
+| BlkFckWtmrk  | Watermarks on free site | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt)   |
 | BlkFckOnnwds | Dialogs                 | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
+
+Or GitLab-RAW links.
+
+| Filter name  | Blocking category       | Filter file |
+| -----------  | -----------------       | ----------- |
+| BlkFckWbs    | Tracking and telemetry  | [Link](https://gitlab.com/spiri-leo/themtfilters/-/raw/main/blkfckwbs/blkfckwbs.txt)       | 
+| BlkFckAds    | Ads                     | [Link](https://gitlab.com/spiri-leo/themtfilters/-/raw/main/blkfckads/blkfckads.txt)       |
+| BlkFckWtmrk  | Watermarks on free site | [Link](https://gitlab.com/spiri-leo/themtfilters/-/raw/main/blkfckwtmrk/blkfckwtmrk.txt)   |
+| BlkFckOnnwds | Dialogs                 | [Link](https://gitlab.com/spiri-leo/themtfilters/-/raw/main/blkfckonnwds/blkfckonnwds.txt) |
 
 # Warning!
 This all filters on Monya Technik's Filters, get problems and bugs and errors.
