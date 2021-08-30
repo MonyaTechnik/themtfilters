@@ -1,6 +1,9 @@
 # The Monya Technik's Filters
 The Monya Technik's filters helps block ads and trackers and more. Blocks hidden trackers, watermarks, ads, and more.
 
+[![AdGuard](https://img.shields.io/badge/AdGuard-supports-green.svg)](https://shields.io/)
+[![uBlock Origin](https://img.shields.io/badge/uBlock-supports-green.svg)](https://shields.io/)
+[![AdBlock Plus](https://img.shields.io/badge/AdBlockPlus-supports-green.svg)](https://shields.io/)
 # Sponsors:
 + LevSpiridonov (https://github.com/spiri-leo)
 + Monya Technik (https://github.com/MonyaTechnik)
