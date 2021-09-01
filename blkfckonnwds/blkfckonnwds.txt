@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: BlkFck Others
+! Version: 1.0
+! Homepage: https://github.com/MonyaTechnik/themtfilters
+
 ! Use the blocklist to block dialogs.
 !
 ! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckonnwds
