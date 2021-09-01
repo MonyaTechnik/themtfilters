@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: BlkFckWbs
-! Version: not
+! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
 
 ! Use the blocklist to block most worst trackers and protect your privacy.
