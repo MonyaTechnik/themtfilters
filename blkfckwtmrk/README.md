@@ -14,5 +14,6 @@ This is filter blocks site editor watermarks and watermark shortlinks and much m
 + Aero
 + Ucoz
 + Webnode
++ GitHub Pages
 # Partners watermarks blocked:
 + DuckDuckGo
