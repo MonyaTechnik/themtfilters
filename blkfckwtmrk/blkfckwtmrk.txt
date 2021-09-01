@@ -1,3 +1,8 @@
+[Adblock Plus 2.0]
+! Title: BlkFckWtmrk
+! Version: 1.0
+! Homepage: https://github.com/MonyaTechnik/themtfilters
+
 ! Use the blocklist to block watermarks.
 !
 ! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwtmrk
@@ -60,4 +65,6 @@ webnode.ru##.cf.wnd-free-stripe
 webnode.ru##.cf.s-f-sf
 ##.cf.wnd-free-stripe
 ##.cf.s-f-sf
+! GitHub Pages
+github.io##.site-footer-credits
 ! Watermarks (Stop)
