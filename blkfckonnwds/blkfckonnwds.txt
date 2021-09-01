@@ -1,5 +1,5 @@
 [Adblock Plus 2.0]
-! Title: BlkFck Others
+! Title: BlkFckOnnwds
 ! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
 
