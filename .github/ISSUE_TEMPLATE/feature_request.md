@@ -1,3 +1,8 @@
+---
+name: Feature request
+about: Suggest an idea for Monya Technik's Filters.
+---
+
 ### Prerequisites
 
 Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
