@@ -6,6 +6,7 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 [![AdBlock Plus](https://img.shields.io/badge/AdBlockPlus-supports-green.svg)](https://img.shields.io/badge/AdBlockPlus-supports-green.svg)
 [![AdLock](https://img.shields.io/badge/AdLock-supports-green.svg)](https://img.shields.io/badge/AdLock-supports-green.svg)
 [![AdBlock](https://img.shields.io/badge/AdBlock-supports-green.svg)](https://img.shields.io/badge/AdBlock-supports-green.svg)
+[![Size](https://img.shields.io/github/repo-size/MonyaTechnik/themtfilters.svg)
 # Sponsors:
 + LevSpiridonov (https://github.com/spiri-leo)
 + Monya Technik (https://github.com/MonyaTechnik)
