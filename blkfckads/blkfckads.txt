@@ -600,7 +600,6 @@ ucoz.net##+js(abort-on-property-read, tsr_iframe)
 ucoz.net##+js(abort-on-property-write, ucoz_rndid)
 ucoz.net##+js(no-setTimeout-if, u_global_data)
 1prime.ru##.push-confirm_open.push-confirm
-adguard.com###app > div:first-child
 3dnews.ru##.isspecial.menu-item.sidebar-chunk
 3dnews.ru##+js(set-constant, Object.prototype.playVideo, noopFunc)
 3dnews.ru##+js(abort-on-property-read, Ya)
@@ -818,6 +817,9 @@ rutracker.org##iframe[src*="/rutrk.org/iframe/"]
 nnmclub.to##body > .ui-corner-all
 nnmclub.to##iframe[src*="/forum/ads/"]
 ! Blocking ads on blocked websites (Stop)
+
+
+
 
 ! Unbreaks (Start)
 @@||fixiki.ru/assets/cache_image/vendor/img/design/b2_1_470x306_ad2.jpg
