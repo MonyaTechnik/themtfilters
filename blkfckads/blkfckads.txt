@@ -818,12 +818,10 @@ nnmclub.to##body > .ui-corner-all
 nnmclub.to##iframe[src*="/forum/ads/"]
 ! Blocking ads on blocked websites (Stop)
 
-
-
-
 ! Unbreaks (Start)
 @@||fixiki.ru/assets/cache_image/vendor/img/design/b2_1_470x306_ad2.jpg
 @@||video.magnet.kiev.ua^$domain=autonews.autoua.net|gagadget.com|kiev.ua|okino.ua|ringside24.com
+@@||zenadservices.net/custom-adv/safeframe$domain=zen.yandex.ru
 ! Unbreaks (Stop)
 
 ! Fix bad design (Start)
