@@ -30,6 +30,7 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 You can copy this links to add your adblocker.
 
 ### RAW
+
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
 | BlkFckWbs    | Tracking and telemetry  | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt)       | 
@@ -38,6 +39,7 @@ You can copy this links to add your adblocker.
 | BlkFckOnnwds | Dialogs                 | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
 
 ### GitHub Pages
+
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
 | BlkFckWbs    | Tracking and telemetry  | [Link](https://monyatechnik.github.io/themtfilters/blkfckwbs/blkfckwbs.txt)       | 
