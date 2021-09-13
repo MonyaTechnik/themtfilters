@@ -2,6 +2,7 @@
 ! Title: BlkFckWtmrk
 ! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
+! Description: This filter blocks free site watermarks.
 
 ! Use the blocklist to block watermarks.
 !
