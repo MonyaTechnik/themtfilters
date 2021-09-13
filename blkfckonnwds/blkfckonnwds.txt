@@ -2,6 +2,7 @@
 ! Title: BlkFckOnnwds
 ! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
+! Description: This list blocking dialogs, like fake notifications, and much more dialogs.
 
 ! Use the blocklist to block dialogs.
 !
