@@ -2,6 +2,7 @@
 ! Title: BlkFckWbs
 ! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
+! Description: This filter blocks hidden and popular trackers.
 
 ! Use the blocklist to block most worst trackers and protect your privacy.
 !
