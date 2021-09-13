@@ -1,4 +1,4 @@
-# BlkFckOnwds
+# BlkFckOnnwds
 This filter blocking dialogs.
 
 # Sponsors:
