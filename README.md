@@ -7,6 +7,7 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 [![AdLock](https://img.shields.io/badge/AdLock-supports-green.svg)](https://img.shields.io/badge/AdLock-supports-green.svg)
 [![AdBlock](https://img.shields.io/badge/AdBlock-supports-green.svg)](https://img.shields.io/badge/AdBlock-supports-green.svg)
 ![Size](https://img.shields.io/github/repo-size/MonyaTechnik/themtfilters.svg)
+
 # Sponsors:
 + LevSpiridonov (https://github.com/spiri-leo)
 + Monya Technik (https://github.com/MonyaTechnik)
@@ -28,12 +29,21 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 # The files to add your adblocker:
 You can copy this links to add your adblocker.
 
+### RAW
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
 | BlkFckWbs    | Tracking and telemetry  | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwbs/blkfckwbs.txt)       | 
 | BlkFckAds    | Ads                     | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckads/blkfckads.txt)       |
 | BlkFckWtmrk  | Watermarks on free site | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt)   |
 | BlkFckOnnwds | Dialogs                 | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
+
+### GitHub Pages
+| Filter name  | Blocking category       | Filter file |
+| -----------  | -----------------       | ----------- |
+| BlkFckWbs    | Tracking and telemetry  | [Link](https://monyatechnik.github.io/themtfilters/blkfckwbs/blkfckwbs.txt)       | 
+| BlkFckAds    | Ads                     | [Link](https://monyatechnik.github.io/themtfilters/blkfckads/blkfckads.txt)       |
+| BlkFckWtmrk  | Watermarks on free site | [Link](https://monyatechnik.github.io/themtfilters/blkfckwtmrk/blkfckwtmrk.txt)   |
+| BlkFckOnnwds | Dialogs                 | [Link](https://monyatechnik.github.io/themtfilters/blkfckonnwds/blkfckonnwds.txt) |
 
 # Warning!
 This all filters on Monya Technik's Filters, get problems and bugs and errors.
