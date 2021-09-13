@@ -29,7 +29,7 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 # The files to add your adblocker:
 You can copy this links to add your adblocker.
 
-### RAW
+GitHub RAW
 
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
@@ -38,7 +38,7 @@ You can copy this links to add your adblocker.
 | BlkFckWtmrk  | Watermarks on free site | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckwtmrk/blkfckwtmrk.txt)   |
 | BlkFckOnnwds | Dialogs                 | [Link](https://raw.githubusercontent.com/MonyaTechnik/themtfilters/main/blkfckonnwds/blkfckonnwds.txt) |
 
-### GitHub Pages
+GitHub Pages
 
 | Filter name  | Blocking category       | Filter file |
 | -----------  | -----------------       | ----------- |
