@@ -1,5 +1,5 @@
 # BlkFckAds
-This filter blocks ads.
+This filter blocks ads and annoyances.
 
 # Credits:
 + Lev Spiridonov (https://github.com/spiri-leo)
