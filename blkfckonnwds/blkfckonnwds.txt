@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Title: BlkFckOnnwds
+! Title: BlkFckOnnwds (experimental)
 ! Version: 1.0
 ! Homepage: https://github.com/MonyaTechnik/themtfilters
-! Description: This list blocking dialogs, like fake notifications, and much more dialogs.
+! Description: This list blocking dialogs, like fake notifications, and much more dialogs. But this is experimental and rarely filter.
 
 ! Use the blocklist to block dialogs.
 !
