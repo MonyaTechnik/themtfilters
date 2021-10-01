@@ -9,7 +9,7 @@ The Monya Technik's filters helps block ads and trackers and more. Blocks hidden
 ![Size](https://img.shields.io/github/repo-size/MonyaTechnik/themtfilters.svg)
 
 # Sponsors:
-+ LevSpiridonov (https://github.com/spiri-leo)
++ TheDev (https://github.com/spiri-leo)
 + Monya Technik (https://github.com/MonyaTechnik)
 
 # Read rules:
