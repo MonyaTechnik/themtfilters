@@ -1914,6 +1914,10 @@ counter.co.kz##p.b:nth-of-type(2)
 ||simpleanalyticscdn.com^$3p
 ||app.kindmetrics.io/api/track
 ||dashboard.usertrack.net/server//tracker/*
+||dashboard.usertrack.net/server/helpers/getIP.php
+||dashboard.usertrack.net/server/tracker/createClient.php
+||dashboard.usertrack.net/server/addTag.php
+||dashboard.usertrack.net/server/ab/usertrack.net.ab.js
 ||cdn.panelbear.com^
 ||banstat.nadavi.net^
 ||getclicky.com^
