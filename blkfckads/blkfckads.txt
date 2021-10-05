@@ -2220,7 +2220,6 @@ _ad2.
 /amp-ad-
 /manageads/*
 /admanager_$domain=~konograma.com
-/_hcms/perf
 /cta-loaded.js
 /adsetup_
 /pw.js?deskurl=
@@ -2994,4 +2993,8 @@ naver.com##.banner_area
 ||wp.com/londragazete.com/*/caria_yatay.gif
 ||adfinity.pro^$3p
 ||cdn.viqeo.tv/js/vq_fly_widget.js
+! fix
+||*.push.world^
+||ad.gt^
+||marketgid.com^
 ! Block ad domains and tracking pages (Stop)
