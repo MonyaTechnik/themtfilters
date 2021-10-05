@@ -290,6 +290,7 @@ _stats.js?
 /analytics/geoip/*
 /gemius.js
 _ga-events_
+/_hcms/perf
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
