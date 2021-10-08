@@ -1724,8 +1724,9 @@ finance.ua##.subscribe-news-widget
 crunchyroll.com###template_skin_leaderboard
 crunchyroll.com##.cr-expo-banner
 crunchyroll.com##.message-container
-tiktok.com##.backdrop-2
-tiktok.com##div[class^="jsx-"][style="bottom:49px"].footer-guide
+tiktok.com#$#body[style="overflow: hidden;"] { overflow: auto!important; }
+tiktok.com#$#div[class^="backdrop-"] { display: none!important; }
+tiktok.com#$#div[class^="jsx-"][style="bottom:49px"].footer-guide { display: none!important; }
 tiktok.com#$#div[class^="jsx-"].tiktok-bottom { bottom: 0px!important; }
 classicalmusicnews.ru##.before-header
 classicalmusicnews.ru##[href="https://t.me/classicalmusicnews"]
