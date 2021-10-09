@@ -412,8 +412,6 @@ kkj.cn##div:nth-of-type(8)
 kkj.cn##div:nth-of-type(12)
 kkj.cn##div:nth-of-type(14)
 vk.com##div[class="popup_box_container UnauthActionBoxContainer UnauthActionBoxContainer--form"]
-vk.com##div[id="box_layer_bg"]
-vk.com##div[id="box_layer_wrap"]
 financer.com##.financer-modal--opened.modal-gdpr-full.financer-modal
 techcrunch.com##p:nth-of-type(8)
 daytranslations.com##.newslette-wrapper
