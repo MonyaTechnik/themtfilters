@@ -291,6 +291,7 @@ _stats.js?
 /gemius.js
 _ga-events_
 /_hcms/perf
+/gen204/*
 ! All tracking pamameters and tracking files (Stop)
 
 ! Unbreaks (Start)
@@ -463,7 +464,7 @@ counter.co.kz##p.b:nth-of-type(2)
 ||dotmetrics.net^
 ||permutive.app^
 ||optimizely.com^
-||az416426.vo.msecnd.net^
+||az416426.vo.msecnd.net^$3p
 ||report-uri.com^
 ||browser-updater.yandex.net^
 ||secure.statcounter.com^
@@ -481,9 +482,9 @@ counter.co.kz##p.b:nth-of-type(2)
 ||tracker.convead.io^
 ||go-mpulse.net^
 ||yandex.ru/cycounter
-||youtube.com/ptracking
-||youtube.com/api/stats/atr
-||youtube.com/youtubei/v1/log_event
+||youtube.com/ptracking?
+||youtube.com/api/stats/atr?
+||youtube.com/youtubei/v1/log_event?
 ||tracking.ott.yandex.net^
 ||sb.scorecardresearch.com^
 ||stat.sputnik.ru^
@@ -500,7 +501,7 @@ counter.co.kz##p.b:nth-of-type(2)
 ||frog.wix.com^$ping,xmlhttprequest
 ||mail.ru/k?
 ||ok.ru/mapi?query=*getCounters*
-||clarity.ms^
+||clarity.ms^$3p
 ||static.cloudflareinsights.com/beacon.min.js
 ||cdn.jsdelivr.net/npm/yandex-metrica-watch/watch.js
 ||countess.twitch.tv^
