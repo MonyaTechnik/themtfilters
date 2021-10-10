@@ -29,9 +29,6 @@
 /facebookpixel.
 /referer_frame.
 ?type=pageview&
-! Secret DDOS-Guard trackers (Start)
-/.well-known/ddos-guard/id
-! Secret DDOS-Guard trackers (Stop)
 /rendertimingpixel.
 /c.gif?
 /log_event?
