@@ -35,9 +35,9 @@
 /rendertimingpixel.
 /c.gif?
 /log_event?
-/generate_204
-/gen204
-/gen_204
+/generate_204?
+/gen204?
+/gen_204?
 /?sentry_key=
 /fingerprint2.min.js
 /client_204?
@@ -73,7 +73,7 @@ _pagespeed_beacon?
 /v.gif?
 /stats/xmsg_
 ?sponsor_pixel=
-/pixel.gif
+/pixel.gif?
 .js?referer=
 /jstatphp.
 /perf-vitals_
