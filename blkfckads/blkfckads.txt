@@ -2995,7 +2995,7 @@ naver.com##.banner_area
 ||adfinity.pro^$3p
 ||cdn.viqeo.tv/js/vq_fly_widget.js
 ! fix
-||*.push.world^
+||push.world^$p
 ||ad.gt^
 ||marketgid.com^
 ! Block ad domains and tracking pages (Stop)
