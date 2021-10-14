@@ -1810,6 +1810,7 @@ ios-data-recovery.com##.widget_custom_html.widget.widget_text
 lifestyle.livemint.com##div[class^="newsletter"]
 comptrick.ru##div.side-blok.widget_text:nth-of-type(3)
 youtube.com##.style-scope.ytd-watch-next-secondary-results-renderer.sparkles-light-cta.GoogleActiveViewElement
+yandex.ru##+js(cookie-remover, /blcrm|bltsr|FgkKdCjPqoMFm|computer/)
 ! For more domains
 ##div[id^="yandex_rtb"]
 ##.adsbygoogle
