@@ -1603,7 +1603,6 @@ counter.co.kz##p.b:nth-of-type(2)
 ||linkedin.com/li/track^
 ||linkedin.com/cross-promo-fe^
 ||linkedin.com/voyager/api/growth^
-||cdn5.ozone.ru/s3/ozon-tag-manager/
 ||imhd.io^$3p
 ||iabusprivacy.pmc.com^
 ||dc8xl0ndzn2cb.cloudfront.net^
