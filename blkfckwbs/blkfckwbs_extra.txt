@@ -1,0 +1,31 @@
+[Adblock Plus 2.0]
+! Title: BlkFckWbs (Extra)
+! Version: 1.0
+! Homepage: https://github.com/MonyaTechnik/themtfilters
+! Description: This filter blocks trackers, but it blocks good analytics without cookies.
+
+! It is not necessary to use this filter.
+!
+! For more information: https://github.com/MonyaTechnik/themtfilters/tree/main/blkfckwbs
+! ----------------------------------------------------------------------------------------------------------------------------------------------
+! Users:      MonyaTechnik, 
+! Format:     Adblocker list
+! Credits:    Monya, Lev Spiridonov (spiridonowlevo@yandex.ru)
+!
+! Please contact me or on a issue on GitHub to block unblocked tracker and problems:
+! ----------------------------------------------------------------------------------------------------------------------------------------------
+! Lev Spiridonov: spiridonowlev@yandex.ru
+! GitHub issue: https://github.com/MonyaTechnik/themtfilters
+! 
+! MonyaSoft, LevaSoft 2021
+!
+! Start date: 11 August 2021, 17:57:22 AM
+
+! Domains
+
+! https://github.com/MonyaTechnik/themtfilters/issues/4#issuecomment-974724198
+||aurora-d3.herokuapp.com^$3p
+||aurora-analytics.herokuapp.com/v2/collect
+!
+
+!

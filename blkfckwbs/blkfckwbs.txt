@@ -1515,9 +1515,9 @@ counter.co.kz##p.b:nth-of-type(2)
 ||adfstat.yandex.ru^
 ||otclick-adv.ru^$3p
 ||aan.amazon.com^$3p
-! The Aurora Analytics without cookies found on d3ward's website
-||aurora-d3.herokuapp.com^$3p
-||aurora-analytics.herokuapp.com/v2/collect
+! Added to BlkFckWbs (Extra) filter
+! ||aurora-d3.herokuapp.com^$3p
+! ||aurora-analytics.herokuapp.com/v2/collect
 !
 ||tracking.gpm-rtv.ru^
 ||app.link/_r?sdk=*&callback=branch_callback
