@@ -6,7 +6,7 @@ daysUntilClose: 10
 exemptLabels:
   - 'By design'
   - 'Problematic'
-  - 'In progress'
+  - 'In a progress'
 # Label to use when marking an issue as stale
 staleLabel: "Won't fix"
 # Comment to post when marking an issue as stale. Set to `false` to disable
