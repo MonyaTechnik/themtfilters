@@ -24,7 +24,7 @@
 ! Domains
 
 ! https://github.com/MonyaTechnik/themtfilters/issues/4#issuecomment-974724198
-||aurora-d3.herokuapp.com^$3p
+||aurora-d3.herokuapp.com^
 ||aurora-analytics.herokuapp.com/v2/collect
 !
 
