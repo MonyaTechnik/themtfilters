@@ -1,3 +1,8 @@
+## This project has been archived
+Since we have already stopped working on this project.
+
+</br>
+
 # The Monya Technik's Filters
 The Monya Technik's filters helps block ads and trackers and more. Blocks hidden trackers, watermarks, ads, and more.
 
